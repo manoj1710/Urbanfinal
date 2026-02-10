@@ -1,0 +1,1501 @@
+batch_id,product_name,product_type,quality_grade,produced_date,expiry_date,quantity,storage_type,city
+B-1000,Onion,Fresh,C,2026-02-05,2026-02-19,219,Ambient,Phoenix
+B-1001,Tomato,Fresh,C,2026-01-31,2026-02-14,476,Ambient,Houston
+B-1002,Milk,Chilled,A,2026-02-05,2026-02-12,429,Refrigerated,New York
+B-1003,Milk,Chilled,B,2026-02-01,2026-02-08,329,Refrigerated,Chicago
+B-1004,Onion,Fresh,C,2026-02-07,2026-02-21,327,Ambient,Phoenix
+B-1005,Fish,Chilled,C,2026-02-06,2026-02-11,243,Refrigerated,Chicago
+B-1006,Meat,Chilled,B,2026-02-06,2026-02-11,107,Refrigerated,Phoenix
+B-1007,Milk,Chilled,B,2026-02-04,2026-02-11,461,Refrigerated,New York
+B-1008,Fish,Chilled,C,2026-02-08,2026-02-13,88,Refrigerated,Chicago
+B-1009,Tomato,Fresh,B,2026-02-05,2026-02-19,113,Ambient,Phoenix
+B-1010,Onion,Fresh,B,2026-02-06,2026-02-20,391,Ambient,Houston
+B-1011,Milk,Chilled,C,2026-02-09,2026-02-16,343,Refrigerated,Chicago
+B-1012,Tomato,Fresh,C,2026-02-03,2026-02-17,432,Ambient,Los Angeles
+B-1013,Meat,Chilled,C,2026-02-02,2026-02-07,150,Refrigerated,Los Angeles
+B-1014,Onion,Fresh,B,2026-02-08,2026-02-22,146,Ambient,Chicago
+B-1015,Meat,Chilled,B,2026-02-09,2026-02-14,366,Refrigerated,Houston
+B-1016,Milk,Chilled,A,2026-02-04,2026-02-11,353,Refrigerated,Phoenix
+B-1017,Meat,Chilled,B,2026-02-04,2026-02-09,281,Refrigerated,Los Angeles
+B-1018,Tomato,Fresh,A,2026-02-09,2026-02-23,334,Ambient,Houston
+B-1019,Milk,Chilled,A,2026-02-04,2026-02-11,406,Refrigerated,Houston
+B-1020,Meat,Chilled,C,2026-02-03,2026-02-08,106,Refrigerated,Chicago
+B-1021,Milk,Chilled,B,2026-02-07,2026-02-14,492,Refrigerated,Houston
+B-1022,Fish,Chilled,A,2026-02-03,2026-02-08,167,Refrigerated,Los Angeles
+B-1023,Onion,Fresh,B,2026-01-31,2026-02-14,278,Ambient,Houston
+B-1024,Onion,Fresh,B,2026-02-03,2026-02-17,53,Ambient,Los Angeles
+B-1025,Fish,Chilled,A,2026-02-08,2026-02-13,456,Refrigerated,New York
+B-1026,Onion,Fresh,B,2026-02-04,2026-02-18,406,Ambient,Los Angeles
+B-1027,Milk,Chilled,A,2026-02-08,2026-02-15,98,Refrigerated,Los Angeles
+B-1028,Meat,Chilled,C,2026-02-05,2026-02-10,174,Refrigerated,Phoenix
+B-1029,Tomato,Fresh,A,2026-02-05,2026-02-19,63,Ambient,Los Angeles
+B-1030,Onion,Fresh,B,2026-02-07,2026-02-21,398,Ambient,Los Angeles
+B-1031,Meat,Chilled,B,2026-02-04,2026-02-09,450,Refrigerated,Houston
+B-1032,Meat,Chilled,B,2026-02-02,2026-02-07,262,Refrigerated,Phoenix
+B-1033,Onion,Fresh,B,2026-02-09,2026-02-23,159,Ambient,Los Angeles
+B-1034,Milk,Chilled,C,2026-02-08,2026-02-15,340,Refrigerated,Los Angeles
+B-1035,Fish,Chilled,B,2026-02-06,2026-02-11,446,Refrigerated,Chicago
+B-1036,Tomato,Fresh,B,2026-02-02,2026-02-16,382,Ambient,New York
+B-1037,Tomato,Fresh,A,2026-02-06,2026-02-20,93,Ambient,Phoenix
+B-1038,Milk,Chilled,B,2026-02-05,2026-02-12,411,Refrigerated,Chicago
+B-1039,Tomato,Fresh,A,2026-02-05,2026-02-19,469,Ambient,Los Angeles
+B-1040,Tomato,Fresh,B,2026-02-04,2026-02-18,431,Ambient,Phoenix
+B-1041,Milk,Chilled,B,2026-02-02,2026-02-09,198,Refrigerated,Phoenix
+B-1042,Meat,Chilled,B,2026-02-06,2026-02-11,477,Refrigerated,New York
+B-1043,Onion,Fresh,B,2026-02-05,2026-02-19,92,Ambient,Houston
+B-1044,Meat,Chilled,B,2026-02-01,2026-02-06,119,Refrigerated,New York
+B-1045,Onion,Fresh,B,2026-02-05,2026-02-19,493,Ambient,Chicago
+B-1046,Onion,Fresh,C,2026-01-31,2026-02-14,73,Ambient,Chicago
+B-1047,Onion,Fresh,A,2026-02-05,2026-02-19,331,Ambient,Los Angeles
+B-1048,Fish,Chilled,A,2026-01-31,2026-02-05,498,Refrigerated,Los Angeles
+B-1049,Meat,Chilled,C,2026-02-01,2026-02-06,471,Refrigerated,Chicago
+B-1050,Onion,Fresh,A,2026-02-03,2026-02-17,119,Ambient,New York
+B-1051,Fish,Chilled,B,2026-02-09,2026-02-14,397,Refrigerated,Houston
+B-1052,Meat,Chilled,A,2026-02-08,2026-02-13,491,Refrigerated,Phoenix
+B-1053,Fish,Chilled,A,2026-02-01,2026-02-06,271,Refrigerated,Chicago
+B-1054,Milk,Chilled,B,2026-02-09,2026-02-16,460,Refrigerated,Chicago
+B-1055,Fish,Chilled,B,2026-02-07,2026-02-12,351,Refrigerated,Phoenix
+B-1056,Meat,Chilled,A,2026-02-06,2026-02-11,480,Refrigerated,New York
+B-1057,Fish,Chilled,C,2026-01-31,2026-02-05,483,Refrigerated,Chicago
+B-1058,Milk,Chilled,C,2026-02-08,2026-02-15,82,Refrigerated,New York
+B-1059,Fish,Chilled,C,2026-01-31,2026-02-05,108,Refrigerated,Houston
+B-1060,Tomato,Fresh,B,2026-02-03,2026-02-17,136,Ambient,Phoenix
+B-1061,Meat,Chilled,C,2026-02-02,2026-02-07,63,Refrigerated,Chicago
+B-1062,Meat,Chilled,B,2026-02-03,2026-02-08,368,Refrigerated,Chicago
+B-1063,Fish,Chilled,B,2026-02-07,2026-02-12,186,Refrigerated,Phoenix
+B-1064,Fish,Chilled,A,2026-02-03,2026-02-08,106,Refrigerated,New York
+B-1065,Onion,Fresh,C,2026-02-06,2026-02-20,124,Ambient,Phoenix
+B-1066,Tomato,Fresh,A,2026-02-01,2026-02-15,368,Ambient,Phoenix
+B-1067,Meat,Chilled,B,2026-02-04,2026-02-09,465,Refrigerated,New York
+B-1068,Milk,Chilled,C,2026-02-06,2026-02-13,230,Refrigerated,Houston
+B-1069,Meat,Chilled,C,2026-02-04,2026-02-09,421,Refrigerated,New York
+B-1070,Onion,Fresh,B,2026-02-07,2026-02-21,181,Ambient,Phoenix
+B-1071,Meat,Chilled,A,2026-02-01,2026-02-06,232,Refrigerated,Los Angeles
+B-1072,Onion,Fresh,B,2026-02-07,2026-02-21,228,Ambient,New York
+B-1073,Onion,Fresh,B,2026-02-06,2026-02-20,450,Ambient,Houston
+B-1074,Onion,Fresh,C,2026-02-07,2026-02-21,462,Ambient,Phoenix
+B-1075,Fish,Chilled,C,2026-02-09,2026-02-14,301,Refrigerated,New York
+B-1076,Tomato,Fresh,C,2026-02-02,2026-02-16,293,Ambient,Phoenix
+B-1077,Onion,Fresh,C,2026-02-07,2026-02-21,372,Ambient,Houston
+B-1078,Meat,Chilled,C,2026-02-06,2026-02-11,219,Refrigerated,Houston
+B-1079,Milk,Chilled,C,2026-02-04,2026-02-11,133,Refrigerated,Chicago
+B-1080,Meat,Chilled,A,2026-01-31,2026-02-05,243,Refrigerated,Houston
+B-1081,Fish,Chilled,A,2026-02-02,2026-02-07,96,Refrigerated,New York
+B-1082,Tomato,Fresh,B,2026-02-01,2026-02-15,339,Ambient,Houston
+B-1083,Milk,Chilled,C,2026-02-04,2026-02-11,426,Refrigerated,Houston
+B-1084,Milk,Chilled,C,2026-02-08,2026-02-15,498,Refrigerated,New York
+B-1085,Milk,Chilled,B,2026-02-02,2026-02-09,130,Refrigerated,Phoenix
+B-1086,Milk,Chilled,A,2026-02-09,2026-02-16,462,Refrigerated,New York
+B-1087,Onion,Fresh,B,2026-02-05,2026-02-19,396,Ambient,Chicago
+B-1088,Meat,Chilled,A,2026-02-04,2026-02-09,116,Refrigerated,Phoenix
+B-1089,Fish,Chilled,A,2026-02-03,2026-02-08,360,Refrigerated,New York
+B-1090,Tomato,Fresh,A,2026-02-08,2026-02-22,356,Ambient,Phoenix
+B-1091,Fish,Chilled,B,2026-02-07,2026-02-12,127,Refrigerated,Phoenix
+B-1092,Onion,Fresh,B,2026-02-07,2026-02-21,131,Ambient,New York
+B-1093,Meat,Chilled,A,2026-02-06,2026-02-11,405,Refrigerated,Houston
+B-1094,Milk,Chilled,B,2026-02-01,2026-02-08,202,Refrigerated,Houston
+B-1095,Tomato,Fresh,B,2026-02-04,2026-02-18,419,Ambient,Houston
+B-1096,Fish,Chilled,A,2026-02-01,2026-02-06,181,Refrigerated,Los Angeles
+B-1097,Fish,Chilled,A,2026-02-01,2026-02-06,377,Refrigerated,Phoenix
+B-1098,Milk,Chilled,A,2026-02-04,2026-02-11,348,Refrigerated,New York
+B-1099,Meat,Chilled,C,2026-02-08,2026-02-13,219,Refrigerated,Phoenix
+B-1100,Milk,Chilled,A,2026-02-04,2026-02-11,268,Refrigerated,Los Angeles
+B-1101,Onion,Fresh,A,2026-02-06,2026-02-20,394,Ambient,Phoenix
+B-1102,Fish,Chilled,A,2026-02-07,2026-02-12,263,Refrigerated,New York
+B-1103,Fish,Chilled,B,2026-02-05,2026-02-10,250,Refrigerated,Chicago
+B-1104,Fish,Chilled,C,2026-02-03,2026-02-08,63,Refrigerated,Houston
+B-1105,Tomato,Fresh,B,2026-02-02,2026-02-16,140,Ambient,Houston
+B-1106,Meat,Chilled,C,2026-02-01,2026-02-06,100,Refrigerated,Los Angeles
+B-1107,Milk,Chilled,B,2026-01-31,2026-02-07,346,Refrigerated,Chicago
+B-1108,Meat,Chilled,A,2026-02-06,2026-02-11,145,Refrigerated,Phoenix
+B-1109,Tomato,Fresh,C,2026-01-31,2026-02-14,274,Ambient,Los Angeles
+B-1110,Meat,Chilled,C,2026-02-02,2026-02-07,247,Refrigerated,Los Angeles
+B-1111,Meat,Chilled,B,2026-02-03,2026-02-08,477,Refrigerated,Chicago
+B-1112,Meat,Chilled,A,2026-02-08,2026-02-13,333,Refrigerated,Chicago
+B-1113,Meat,Chilled,A,2026-02-08,2026-02-13,483,Refrigerated,Phoenix
+B-1114,Onion,Fresh,A,2026-01-31,2026-02-14,255,Ambient,Chicago
+B-1115,Tomato,Fresh,B,2026-02-06,2026-02-20,496,Ambient,Los Angeles
+B-1116,Fish,Chilled,B,2026-02-02,2026-02-07,89,Refrigerated,New York
+B-1117,Meat,Chilled,B,2026-02-08,2026-02-13,175,Refrigerated,New York
+B-1118,Milk,Chilled,C,2026-02-04,2026-02-11,213,Refrigerated,New York
+B-1119,Fish,Chilled,B,2026-02-08,2026-02-13,104,Refrigerated,Houston
+B-1120,Milk,Chilled,C,2026-02-04,2026-02-11,202,Refrigerated,Phoenix
+B-1121,Meat,Chilled,B,2026-02-05,2026-02-10,220,Refrigerated,Phoenix
+B-1122,Meat,Chilled,B,2026-02-09,2026-02-14,390,Refrigerated,Houston
+B-1123,Meat,Chilled,B,2026-02-06,2026-02-11,95,Refrigerated,New York
+B-1124,Milk,Chilled,B,2026-02-02,2026-02-09,248,Refrigerated,Phoenix
+B-1125,Onion,Fresh,A,2026-02-07,2026-02-21,267,Ambient,Houston
+B-1126,Onion,Fresh,A,2026-02-03,2026-02-17,155,Ambient,Phoenix
+B-1127,Onion,Fresh,A,2026-02-09,2026-02-23,455,Ambient,New York
+B-1128,Fish,Chilled,C,2026-02-09,2026-02-14,299,Refrigerated,Chicago
+B-1129,Tomato,Fresh,B,2026-02-08,2026-02-22,106,Ambient,New York
+B-1130,Tomato,Fresh,A,2026-02-07,2026-02-21,119,Ambient,Los Angeles
+B-1131,Fish,Chilled,A,2026-02-01,2026-02-06,497,Refrigerated,Los Angeles
+B-1132,Milk,Chilled,A,2026-02-06,2026-02-13,490,Refrigerated,Los Angeles
+B-1133,Tomato,Fresh,B,2026-02-09,2026-02-23,303,Ambient,Los Angeles
+B-1134,Fish,Chilled,A,2026-02-05,2026-02-10,243,Refrigerated,Houston
+B-1135,Meat,Chilled,C,2026-02-02,2026-02-07,93,Refrigerated,Chicago
+B-1136,Meat,Chilled,C,2026-02-03,2026-02-08,151,Refrigerated,Houston
+B-1137,Onion,Fresh,B,2026-02-01,2026-02-15,241,Ambient,Chicago
+B-1138,Fish,Chilled,B,2026-02-08,2026-02-13,500,Refrigerated,Houston
+B-1139,Meat,Chilled,C,2026-02-06,2026-02-11,423,Refrigerated,New York
+B-1140,Fish,Chilled,B,2026-02-07,2026-02-12,251,Refrigerated,Phoenix
+B-1141,Meat,Chilled,C,2026-02-04,2026-02-09,498,Refrigerated,Chicago
+B-1142,Tomato,Fresh,A,2026-01-31,2026-02-14,309,Ambient,Los Angeles
+B-1143,Milk,Chilled,A,2026-01-31,2026-02-07,180,Refrigerated,Los Angeles
+B-1144,Onion,Fresh,C,2026-02-02,2026-02-16,487,Ambient,New York
+B-1145,Fish,Chilled,B,2026-02-07,2026-02-12,362,Refrigerated,Phoenix
+B-1146,Onion,Fresh,A,2026-02-07,2026-02-21,96,Ambient,Chicago
+B-1147,Tomato,Fresh,A,2026-02-07,2026-02-21,454,Ambient,New York
+B-1148,Onion,Fresh,A,2026-02-09,2026-02-23,482,Ambient,Los Angeles
+B-1149,Milk,Chilled,A,2026-02-09,2026-02-16,84,Refrigerated,Los Angeles
+B-1150,Milk,Chilled,C,2026-02-07,2026-02-14,429,Refrigerated,Chicago
+B-1151,Tomato,Fresh,B,2026-02-04,2026-02-18,130,Ambient,Los Angeles
+B-1152,Fish,Chilled,B,2026-02-05,2026-02-10,165,Refrigerated,Houston
+B-1153,Meat,Chilled,A,2026-02-02,2026-02-07,125,Refrigerated,Phoenix
+B-1154,Milk,Chilled,A,2026-02-05,2026-02-12,470,Refrigerated,Chicago
+B-1155,Tomato,Fresh,A,2026-02-04,2026-02-18,477,Ambient,Los Angeles
+B-1156,Tomato,Fresh,B,2026-02-03,2026-02-17,194,Ambient,Los Angeles
+B-1157,Milk,Chilled,B,2026-02-02,2026-02-09,324,Refrigerated,Houston
+B-1158,Onion,Fresh,C,2026-02-05,2026-02-19,273,Ambient,Los Angeles
+B-1159,Fish,Chilled,C,2026-01-31,2026-02-05,423,Refrigerated,Los Angeles
+B-1160,Onion,Fresh,C,2026-02-03,2026-02-17,350,Ambient,Houston
+B-1161,Meat,Chilled,C,2026-02-05,2026-02-10,279,Refrigerated,New York
+B-1162,Tomato,Fresh,C,2026-02-02,2026-02-16,447,Ambient,Phoenix
+B-1163,Fish,Chilled,C,2026-02-02,2026-02-07,185,Refrigerated,New York
+B-1164,Fish,Chilled,C,2026-02-08,2026-02-13,208,Refrigerated,New York
+B-1165,Tomato,Fresh,B,2026-02-04,2026-02-18,250,Ambient,Houston
+B-1166,Milk,Chilled,A,2026-02-03,2026-02-10,490,Refrigerated,Phoenix
+B-1167,Onion,Fresh,C,2026-02-04,2026-02-18,284,Ambient,Phoenix
+B-1168,Meat,Chilled,C,2026-02-02,2026-02-07,477,Refrigerated,Houston
+B-1169,Tomato,Fresh,A,2026-02-02,2026-02-16,163,Ambient,Los Angeles
+B-1170,Fish,Chilled,B,2026-02-09,2026-02-14,477,Refrigerated,Phoenix
+B-1171,Fish,Chilled,C,2026-02-05,2026-02-10,212,Refrigerated,Chicago
+B-1172,Tomato,Fresh,C,2026-02-03,2026-02-17,273,Ambient,Phoenix
+B-1173,Onion,Fresh,C,2026-02-05,2026-02-19,235,Ambient,Los Angeles
+B-1174,Meat,Chilled,C,2026-02-02,2026-02-07,173,Refrigerated,Houston
+B-1175,Fish,Chilled,C,2026-02-08,2026-02-13,481,Refrigerated,New York
+B-1176,Fish,Chilled,B,2026-02-05,2026-02-10,374,Refrigerated,Los Angeles
+B-1177,Fish,Chilled,C,2026-02-07,2026-02-12,313,Refrigerated,Phoenix
+B-1178,Onion,Fresh,A,2026-02-02,2026-02-16,352,Ambient,Phoenix
+B-1179,Tomato,Fresh,B,2026-01-31,2026-02-14,131,Ambient,Los Angeles
+B-1180,Onion,Fresh,A,2026-02-01,2026-02-15,73,Ambient,Houston
+B-1181,Tomato,Fresh,C,2026-02-09,2026-02-23,285,Ambient,Chicago
+B-1182,Meat,Chilled,A,2026-02-05,2026-02-10,352,Refrigerated,New York
+B-1183,Tomato,Fresh,B,2026-02-02,2026-02-16,293,Ambient,Los Angeles
+B-1184,Onion,Fresh,A,2026-02-08,2026-02-22,405,Ambient,Phoenix
+B-1185,Onion,Fresh,C,2026-02-08,2026-02-22,442,Ambient,Phoenix
+B-1186,Tomato,Fresh,B,2026-02-09,2026-02-23,361,Ambient,New York
+B-1187,Meat,Chilled,B,2026-02-07,2026-02-12,431,Refrigerated,New York
+B-1188,Onion,Fresh,B,2026-02-05,2026-02-19,97,Ambient,New York
+B-1189,Meat,Chilled,B,2026-02-02,2026-02-07,103,Refrigerated,Los Angeles
+B-1190,Meat,Chilled,C,2026-02-03,2026-02-08,361,Refrigerated,Houston
+B-1191,Onion,Fresh,B,2026-02-01,2026-02-15,393,Ambient,Houston
+B-1192,Onion,Fresh,B,2026-02-03,2026-02-17,358,Ambient,Houston
+B-1193,Onion,Fresh,A,2026-02-03,2026-02-17,256,Ambient,Phoenix
+B-1194,Fish,Chilled,A,2026-02-01,2026-02-06,119,Refrigerated,New York
+B-1195,Tomato,Fresh,B,2026-02-06,2026-02-20,288,Ambient,New York
+B-1196,Meat,Chilled,B,2026-02-07,2026-02-12,327,Refrigerated,Chicago
+B-1197,Meat,Chilled,A,2026-02-03,2026-02-08,238,Refrigerated,Los Angeles
+B-1198,Fish,Chilled,A,2026-02-09,2026-02-14,279,Refrigerated,Chicago
+B-1199,Meat,Chilled,A,2026-02-08,2026-02-13,445,Refrigerated,Houston
+B-1200,Tomato,Fresh,B,2026-02-09,2026-02-23,88,Ambient,Chicago
+B-1201,Milk,Chilled,C,2026-02-09,2026-02-16,439,Refrigerated,Phoenix
+B-1202,Fish,Chilled,C,2026-02-05,2026-02-10,59,Refrigerated,Houston
+B-1203,Onion,Fresh,C,2026-02-05,2026-02-19,120,Ambient,Phoenix
+B-1204,Milk,Chilled,B,2026-02-02,2026-02-09,117,Refrigerated,Houston
+B-1205,Milk,Chilled,B,2026-02-02,2026-02-09,276,Refrigerated,Chicago
+B-1206,Milk,Chilled,A,2026-02-04,2026-02-11,487,Refrigerated,New York
+B-1207,Milk,Chilled,A,2026-01-31,2026-02-07,226,Refrigerated,Phoenix
+B-1208,Fish,Chilled,C,2026-02-03,2026-02-08,236,Refrigerated,Houston
+B-1209,Onion,Fresh,A,2026-02-03,2026-02-17,450,Ambient,New York
+B-1210,Fish,Chilled,A,2026-02-09,2026-02-14,494,Refrigerated,Los Angeles
+B-1211,Meat,Chilled,B,2026-02-07,2026-02-12,434,Refrigerated,Houston
+B-1212,Milk,Chilled,B,2026-02-05,2026-02-12,267,Refrigerated,Los Angeles
+B-1213,Meat,Chilled,C,2026-02-07,2026-02-12,439,Refrigerated,Houston
+B-1214,Onion,Fresh,B,2026-02-05,2026-02-19,64,Ambient,New York
+B-1215,Onion,Fresh,A,2026-02-03,2026-02-17,103,Ambient,New York
+B-1216,Tomato,Fresh,A,2026-02-02,2026-02-16,437,Ambient,Phoenix
+B-1217,Meat,Chilled,B,2026-02-07,2026-02-12,480,Refrigerated,Houston
+B-1218,Fish,Chilled,B,2026-02-02,2026-02-07,177,Refrigerated,Chicago
+B-1219,Milk,Chilled,B,2026-02-02,2026-02-09,475,Refrigerated,Houston
+B-1220,Meat,Chilled,B,2026-02-05,2026-02-10,324,Refrigerated,Chicago
+B-1221,Tomato,Fresh,A,2026-01-31,2026-02-14,271,Ambient,Phoenix
+B-1222,Milk,Chilled,C,2026-02-05,2026-02-12,304,Refrigerated,New York
+B-1223,Tomato,Fresh,A,2026-02-07,2026-02-21,422,Ambient,Houston
+B-1224,Meat,Chilled,C,2026-02-09,2026-02-14,350,Refrigerated,Chicago
+B-1225,Meat,Chilled,C,2026-02-06,2026-02-11,431,Refrigerated,Los Angeles
+B-1226,Tomato,Fresh,B,2026-01-31,2026-02-14,431,Ambient,Houston
+B-1227,Meat,Chilled,C,2026-02-08,2026-02-13,67,Refrigerated,Houston
+B-1228,Meat,Chilled,A,2026-02-05,2026-02-10,193,Refrigerated,Houston
+B-1229,Milk,Chilled,B,2026-02-01,2026-02-08,344,Refrigerated,New York
+B-1230,Onion,Fresh,C,2026-02-06,2026-02-20,199,Ambient,Los Angeles
+B-1231,Milk,Chilled,C,2026-02-07,2026-02-14,244,Refrigerated,Phoenix
+B-1232,Milk,Chilled,B,2026-02-06,2026-02-13,65,Refrigerated,Chicago
+B-1233,Meat,Chilled,A,2026-01-31,2026-02-05,488,Refrigerated,Houston
+B-1234,Meat,Chilled,A,2026-02-04,2026-02-09,65,Refrigerated,Chicago
+B-1235,Fish,Chilled,C,2026-02-03,2026-02-08,417,Refrigerated,Los Angeles
+B-1236,Fish,Chilled,C,2026-02-01,2026-02-06,295,Refrigerated,Los Angeles
+B-1237,Milk,Chilled,C,2026-02-07,2026-02-14,324,Refrigerated,Chicago
+B-1238,Fish,Chilled,C,2026-02-04,2026-02-09,66,Refrigerated,New York
+B-1239,Milk,Chilled,C,2026-02-07,2026-02-14,189,Refrigerated,New York
+B-1240,Milk,Chilled,C,2026-02-04,2026-02-11,120,Refrigerated,Chicago
+B-1241,Meat,Chilled,C,2026-02-06,2026-02-11,416,Refrigerated,New York
+B-1242,Fish,Chilled,B,2026-01-31,2026-02-05,251,Refrigerated,Phoenix
+B-1243,Onion,Fresh,C,2026-02-06,2026-02-20,482,Ambient,Chicago
+B-1244,Onion,Fresh,B,2026-02-09,2026-02-23,452,Ambient,Phoenix
+B-1245,Meat,Chilled,A,2026-02-09,2026-02-14,160,Refrigerated,Houston
+B-1246,Fish,Chilled,A,2026-02-05,2026-02-10,239,Refrigerated,New York
+B-1247,Fish,Chilled,B,2026-02-04,2026-02-09,282,Refrigerated,Phoenix
+B-1248,Fish,Chilled,A,2026-02-01,2026-02-06,326,Refrigerated,Phoenix
+B-1249,Onion,Fresh,B,2026-02-02,2026-02-16,149,Ambient,New York
+B-1250,Meat,Chilled,C,2026-02-09,2026-02-14,417,Refrigerated,Los Angeles
+B-1251,Fish,Chilled,C,2026-02-09,2026-02-14,239,Refrigerated,Houston
+B-1252,Milk,Chilled,A,2026-02-01,2026-02-08,421,Refrigerated,Houston
+B-1253,Milk,Chilled,A,2026-02-05,2026-02-12,143,Refrigerated,New York
+B-1254,Tomato,Fresh,A,2026-02-02,2026-02-16,339,Ambient,Los Angeles
+B-1255,Tomato,Fresh,B,2026-02-01,2026-02-15,81,Ambient,Los Angeles
+B-1256,Milk,Chilled,B,2026-02-04,2026-02-11,209,Refrigerated,Houston
+B-1257,Milk,Chilled,C,2026-02-05,2026-02-12,432,Refrigerated,Houston
+B-1258,Milk,Chilled,B,2026-02-09,2026-02-16,115,Refrigerated,Phoenix
+B-1259,Meat,Chilled,C,2026-02-07,2026-02-12,467,Refrigerated,Houston
+B-1260,Milk,Chilled,C,2026-02-01,2026-02-08,383,Refrigerated,Houston
+B-1261,Meat,Chilled,A,2026-02-03,2026-02-08,424,Refrigerated,Los Angeles
+B-1262,Onion,Fresh,B,2026-02-01,2026-02-15,72,Ambient,Houston
+B-1263,Tomato,Fresh,A,2026-02-05,2026-02-19,193,Ambient,Los Angeles
+B-1264,Tomato,Fresh,C,2026-02-06,2026-02-20,317,Ambient,Chicago
+B-1265,Onion,Fresh,C,2026-02-07,2026-02-21,282,Ambient,Houston
+B-1266,Meat,Chilled,B,2026-02-06,2026-02-11,104,Refrigerated,Phoenix
+B-1267,Milk,Chilled,C,2026-02-01,2026-02-08,283,Refrigerated,New York
+B-1268,Tomato,Fresh,A,2026-02-08,2026-02-22,229,Ambient,New York
+B-1269,Fish,Chilled,C,2026-02-08,2026-02-13,491,Refrigerated,New York
+B-1270,Fish,Chilled,A,2026-02-03,2026-02-08,403,Refrigerated,Phoenix
+B-1271,Onion,Fresh,A,2026-02-05,2026-02-19,331,Ambient,Los Angeles
+B-1272,Milk,Chilled,B,2026-02-07,2026-02-14,417,Refrigerated,Los Angeles
+B-1273,Fish,Chilled,C,2026-02-08,2026-02-13,343,Refrigerated,Houston
+B-1274,Fish,Chilled,B,2026-02-05,2026-02-10,273,Refrigerated,Chicago
+B-1275,Milk,Chilled,C,2026-01-31,2026-02-07,286,Refrigerated,Phoenix
+B-1276,Meat,Chilled,A,2026-02-05,2026-02-10,173,Refrigerated,Houston
+B-1277,Tomato,Fresh,B,2026-02-09,2026-02-23,482,Ambient,Los Angeles
+B-1278,Milk,Chilled,A,2026-01-31,2026-02-07,473,Refrigerated,Houston
+B-1279,Onion,Fresh,C,2026-02-01,2026-02-15,125,Ambient,Houston
+B-1280,Meat,Chilled,A,2026-02-05,2026-02-10,182,Refrigerated,Houston
+B-1281,Fish,Chilled,A,2026-02-04,2026-02-09,160,Refrigerated,Phoenix
+B-1282,Fish,Chilled,C,2026-01-31,2026-02-05,71,Refrigerated,Los Angeles
+B-1283,Milk,Chilled,A,2026-02-01,2026-02-08,445,Refrigerated,Chicago
+B-1284,Milk,Chilled,C,2026-02-07,2026-02-14,280,Refrigerated,Houston
+B-1285,Milk,Chilled,B,2026-02-05,2026-02-12,302,Refrigerated,New York
+B-1286,Milk,Chilled,B,2026-02-06,2026-02-13,223,Refrigerated,Los Angeles
+B-1287,Meat,Chilled,A,2026-02-02,2026-02-07,490,Refrigerated,Chicago
+B-1288,Fish,Chilled,A,2026-02-05,2026-02-10,164,Refrigerated,Chicago
+B-1289,Meat,Chilled,A,2026-02-01,2026-02-06,136,Refrigerated,Chicago
+B-1290,Meat,Chilled,A,2026-02-08,2026-02-13,358,Refrigerated,New York
+B-1291,Milk,Chilled,A,2026-02-09,2026-02-16,377,Refrigerated,Houston
+B-1292,Tomato,Fresh,B,2026-01-31,2026-02-14,281,Ambient,Chicago
+B-1293,Tomato,Fresh,C,2026-02-07,2026-02-21,183,Ambient,Los Angeles
+B-1294,Onion,Fresh,C,2026-02-07,2026-02-21,235,Ambient,New York
+B-1295,Milk,Chilled,C,2026-02-03,2026-02-10,302,Refrigerated,Los Angeles
+B-1296,Tomato,Fresh,B,2026-02-08,2026-02-22,209,Ambient,Los Angeles
+B-1297,Onion,Fresh,C,2026-02-07,2026-02-21,174,Ambient,Los Angeles
+B-1298,Tomato,Fresh,C,2026-02-04,2026-02-18,162,Ambient,Los Angeles
+B-1299,Fish,Chilled,C,2026-02-07,2026-02-12,314,Refrigerated,New York
+B-1300,Fish,Chilled,C,2026-02-04,2026-02-09,341,Refrigerated,New York
+B-1301,Meat,Chilled,C,2026-02-03,2026-02-08,433,Refrigerated,Chicago
+B-1302,Onion,Fresh,B,2026-02-08,2026-02-22,411,Ambient,Houston
+B-1303,Milk,Chilled,A,2026-02-07,2026-02-14,323,Refrigerated,Houston
+B-1304,Milk,Chilled,B,2026-02-06,2026-02-13,336,Refrigerated,Los Angeles
+B-1305,Tomato,Fresh,B,2026-01-31,2026-02-14,136,Ambient,Los Angeles
+B-1306,Fish,Chilled,B,2026-02-06,2026-02-11,70,Refrigerated,Chicago
+B-1307,Tomato,Fresh,C,2026-01-31,2026-02-14,388,Ambient,Chicago
+B-1308,Tomato,Fresh,B,2026-02-05,2026-02-19,105,Ambient,Chicago
+B-1309,Onion,Fresh,B,2026-02-09,2026-02-23,337,Ambient,New York
+B-1310,Fish,Chilled,C,2026-02-03,2026-02-08,109,Refrigerated,New York
+B-1311,Onion,Fresh,B,2026-01-31,2026-02-14,50,Ambient,New York
+B-1312,Tomato,Fresh,C,2026-02-06,2026-02-20,312,Ambient,Los Angeles
+B-1313,Meat,Chilled,C,2026-02-02,2026-02-07,269,Refrigerated,Chicago
+B-1314,Milk,Chilled,B,2026-02-05,2026-02-12,290,Refrigerated,Phoenix
+B-1315,Fish,Chilled,A,2026-02-08,2026-02-13,493,Refrigerated,Chicago
+B-1316,Tomato,Fresh,A,2026-01-31,2026-02-14,137,Ambient,Houston
+B-1317,Milk,Chilled,B,2026-02-09,2026-02-16,72,Refrigerated,Houston
+B-1318,Onion,Fresh,B,2026-02-08,2026-02-22,415,Ambient,New York
+B-1319,Milk,Chilled,B,2026-02-04,2026-02-11,69,Refrigerated,Houston
+B-1320,Milk,Chilled,C,2026-02-07,2026-02-14,359,Refrigerated,Los Angeles
+B-1321,Tomato,Fresh,B,2026-02-09,2026-02-23,437,Ambient,Houston
+B-1322,Milk,Chilled,B,2026-02-01,2026-02-08,318,Refrigerated,New York
+B-1323,Tomato,Fresh,C,2026-02-08,2026-02-22,386,Ambient,Los Angeles
+B-1324,Fish,Chilled,A,2026-02-03,2026-02-08,210,Refrigerated,Phoenix
+B-1325,Tomato,Fresh,B,2026-02-07,2026-02-21,437,Ambient,New York
+B-1326,Meat,Chilled,A,2026-01-31,2026-02-05,404,Refrigerated,New York
+B-1327,Onion,Fresh,A,2026-02-02,2026-02-16,120,Ambient,Chicago
+B-1328,Tomato,Fresh,B,2026-02-08,2026-02-22,195,Ambient,Chicago
+B-1329,Meat,Chilled,A,2026-02-09,2026-02-14,426,Refrigerated,New York
+B-1330,Meat,Chilled,A,2026-02-03,2026-02-08,351,Refrigerated,New York
+B-1331,Milk,Chilled,B,2026-02-04,2026-02-11,145,Refrigerated,Houston
+B-1332,Meat,Chilled,B,2026-02-09,2026-02-14,446,Refrigerated,Chicago
+B-1333,Milk,Chilled,C,2026-01-31,2026-02-07,216,Refrigerated,Phoenix
+B-1334,Tomato,Fresh,B,2026-02-04,2026-02-18,102,Ambient,Los Angeles
+B-1335,Milk,Chilled,C,2026-02-03,2026-02-10,460,Refrigerated,Houston
+B-1336,Fish,Chilled,C,2026-02-04,2026-02-09,364,Refrigerated,Houston
+B-1337,Meat,Chilled,C,2026-02-03,2026-02-08,288,Refrigerated,Houston
+B-1338,Meat,Chilled,B,2026-02-03,2026-02-08,375,Refrigerated,Los Angeles
+B-1339,Meat,Chilled,A,2026-02-06,2026-02-11,334,Refrigerated,New York
+B-1340,Tomato,Fresh,B,2026-02-06,2026-02-20,135,Ambient,Houston
+B-1341,Meat,Chilled,A,2026-02-02,2026-02-07,270,Refrigerated,Phoenix
+B-1342,Tomato,Fresh,A,2026-02-05,2026-02-19,494,Ambient,Chicago
+B-1343,Fish,Chilled,C,2026-02-06,2026-02-11,77,Refrigerated,Los Angeles
+B-1344,Onion,Fresh,A,2026-02-05,2026-02-19,101,Ambient,Phoenix
+B-1345,Milk,Chilled,A,2026-02-02,2026-02-09,328,Refrigerated,Chicago
+B-1346,Milk,Chilled,C,2026-02-09,2026-02-16,386,Refrigerated,New York
+B-1347,Fish,Chilled,C,2026-02-01,2026-02-06,253,Refrigerated,Los Angeles
+B-1348,Onion,Fresh,B,2026-02-03,2026-02-17,305,Ambient,New York
+B-1349,Fish,Chilled,A,2026-02-01,2026-02-06,177,Refrigerated,Houston
+B-1350,Fish,Chilled,A,2026-02-04,2026-02-09,484,Refrigerated,Houston
+B-1351,Tomato,Fresh,A,2026-02-04,2026-02-18,76,Ambient,Houston
+B-1352,Fish,Chilled,C,2026-02-09,2026-02-14,309,Refrigerated,New York
+B-1353,Meat,Chilled,B,2026-02-02,2026-02-07,254,Refrigerated,Los Angeles
+B-1354,Meat,Chilled,C,2026-02-01,2026-02-06,493,Refrigerated,Chicago
+B-1355,Onion,Fresh,B,2026-02-02,2026-02-16,370,Ambient,New York
+B-1356,Meat,Chilled,B,2026-02-07,2026-02-12,89,Refrigerated,New York
+B-1357,Meat,Chilled,C,2026-02-08,2026-02-13,389,Refrigerated,Chicago
+B-1358,Tomato,Fresh,B,2026-01-31,2026-02-14,337,Ambient,New York
+B-1359,Fish,Chilled,B,2026-02-09,2026-02-14,62,Refrigerated,Houston
+B-1360,Milk,Chilled,A,2026-02-06,2026-02-13,255,Refrigerated,Chicago
+B-1361,Tomato,Fresh,A,2026-02-03,2026-02-17,170,Ambient,New York
+B-1362,Milk,Chilled,C,2026-02-05,2026-02-12,412,Refrigerated,Houston
+B-1363,Fish,Chilled,A,2026-02-01,2026-02-06,282,Refrigerated,Houston
+B-1364,Tomato,Fresh,B,2026-02-04,2026-02-18,344,Ambient,New York
+B-1365,Onion,Fresh,A,2026-02-04,2026-02-18,230,Ambient,Phoenix
+B-1366,Milk,Chilled,A,2026-02-08,2026-02-15,253,Refrigerated,Houston
+B-1367,Milk,Chilled,C,2026-01-31,2026-02-07,227,Refrigerated,New York
+B-1368,Onion,Fresh,C,2026-02-03,2026-02-17,299,Ambient,New York
+B-1369,Meat,Chilled,C,2026-02-01,2026-02-06,268,Refrigerated,New York
+B-1370,Onion,Fresh,B,2026-02-09,2026-02-23,219,Ambient,Houston
+B-1371,Tomato,Fresh,A,2026-02-02,2026-02-16,285,Ambient,Los Angeles
+B-1372,Onion,Fresh,A,2026-02-07,2026-02-21,447,Ambient,New York
+B-1373,Milk,Chilled,C,2026-01-31,2026-02-07,460,Refrigerated,Chicago
+B-1374,Fish,Chilled,B,2026-02-07,2026-02-12,179,Refrigerated,Los Angeles
+B-1375,Onion,Fresh,C,2026-01-31,2026-02-14,138,Ambient,Chicago
+B-1376,Milk,Chilled,C,2026-02-04,2026-02-11,270,Refrigerated,Chicago
+B-1377,Fish,Chilled,A,2026-02-09,2026-02-14,333,Refrigerated,Houston
+B-1378,Meat,Chilled,B,2026-02-03,2026-02-08,135,Refrigerated,Chicago
+B-1379,Tomato,Fresh,A,2026-02-03,2026-02-17,186,Ambient,Phoenix
+B-1380,Tomato,Fresh,B,2026-02-02,2026-02-16,71,Ambient,Phoenix
+B-1381,Meat,Chilled,C,2026-01-31,2026-02-05,347,Refrigerated,Chicago
+B-1382,Onion,Fresh,A,2026-02-08,2026-02-22,403,Ambient,Los Angeles
+B-1383,Fish,Chilled,A,2026-02-03,2026-02-08,246,Refrigerated,New York
+B-1384,Meat,Chilled,A,2026-02-02,2026-02-07,397,Refrigerated,Chicago
+B-1385,Fish,Chilled,B,2026-02-07,2026-02-12,120,Refrigerated,Phoenix
+B-1386,Onion,Fresh,A,2026-01-31,2026-02-14,77,Ambient,New York
+B-1387,Fish,Chilled,B,2026-02-06,2026-02-11,207,Refrigerated,Chicago
+B-1388,Fish,Chilled,B,2026-02-09,2026-02-14,289,Refrigerated,New York
+B-1389,Meat,Chilled,B,2026-01-31,2026-02-05,320,Refrigerated,Los Angeles
+B-1390,Meat,Chilled,C,2026-02-08,2026-02-13,234,Refrigerated,Houston
+B-1391,Milk,Chilled,B,2026-01-31,2026-02-07,213,Refrigerated,New York
+B-1392,Onion,Fresh,A,2026-02-02,2026-02-16,398,Ambient,Phoenix
+B-1393,Meat,Chilled,B,2026-02-03,2026-02-08,306,Refrigerated,Los Angeles
+B-1394,Onion,Fresh,A,2026-02-02,2026-02-16,495,Ambient,Houston
+B-1395,Milk,Chilled,B,2026-02-09,2026-02-16,183,Refrigerated,New York
+B-1396,Milk,Chilled,B,2026-02-01,2026-02-08,328,Refrigerated,Phoenix
+B-1397,Tomato,Fresh,A,2026-02-05,2026-02-19,375,Ambient,Los Angeles
+B-1398,Tomato,Fresh,C,2026-02-08,2026-02-22,58,Ambient,New York
+B-1399,Milk,Chilled,A,2026-02-07,2026-02-14,141,Refrigerated,Houston
+B-1400,Meat,Chilled,C,2026-02-08,2026-02-13,160,Refrigerated,Chicago
+B-1401,Onion,Fresh,B,2026-02-06,2026-02-20,56,Ambient,Phoenix
+B-1402,Onion,Fresh,C,2026-02-03,2026-02-17,144,Ambient,Houston
+B-1403,Meat,Chilled,B,2026-02-05,2026-02-10,117,Refrigerated,New York
+B-1404,Tomato,Fresh,C,2026-02-07,2026-02-21,225,Ambient,Phoenix
+B-1405,Meat,Chilled,B,2026-02-03,2026-02-08,247,Refrigerated,Chicago
+B-1406,Tomato,Fresh,C,2026-02-01,2026-02-15,209,Ambient,Chicago
+B-1407,Milk,Chilled,C,2026-02-04,2026-02-11,418,Refrigerated,Chicago
+B-1408,Meat,Chilled,A,2026-02-04,2026-02-09,202,Refrigerated,Chicago
+B-1409,Milk,Chilled,C,2026-02-08,2026-02-15,137,Refrigerated,Houston
+B-1410,Tomato,Fresh,C,2026-02-03,2026-02-17,286,Ambient,New York
+B-1411,Onion,Fresh,A,2026-02-08,2026-02-22,145,Ambient,New York
+B-1412,Onion,Fresh,C,2026-02-06,2026-02-20,218,Ambient,Chicago
+B-1413,Fish,Chilled,B,2026-02-06,2026-02-11,167,Refrigerated,Phoenix
+B-1414,Meat,Chilled,A,2026-02-01,2026-02-06,86,Refrigerated,Houston
+B-1415,Onion,Fresh,C,2026-02-01,2026-02-15,253,Ambient,New York
+B-1416,Fish,Chilled,C,2026-02-08,2026-02-13,500,Refrigerated,Chicago
+B-1417,Meat,Chilled,B,2026-02-02,2026-02-07,277,Refrigerated,Los Angeles
+B-1418,Meat,Chilled,B,2026-02-04,2026-02-09,326,Refrigerated,Chicago
+B-1419,Milk,Chilled,B,2026-02-02,2026-02-09,500,Refrigerated,Los Angeles
+B-1420,Milk,Chilled,A,2026-01-31,2026-02-07,300,Refrigerated,New York
+B-1421,Tomato,Fresh,B,2026-02-03,2026-02-17,145,Ambient,Houston
+B-1422,Meat,Chilled,A,2026-02-03,2026-02-08,286,Refrigerated,New York
+B-1423,Meat,Chilled,C,2026-02-04,2026-02-09,368,Refrigerated,Phoenix
+B-1424,Milk,Chilled,B,2026-02-06,2026-02-13,118,Refrigerated,Chicago
+B-1425,Onion,Fresh,B,2026-02-05,2026-02-19,221,Ambient,Houston
+B-1426,Tomato,Fresh,B,2026-02-05,2026-02-19,238,Ambient,Chicago
+B-1427,Onion,Fresh,B,2026-02-08,2026-02-22,54,Ambient,Chicago
+B-1428,Tomato,Fresh,A,2026-02-01,2026-02-15,215,Ambient,Phoenix
+B-1429,Fish,Chilled,C,2026-02-06,2026-02-11,456,Refrigerated,Houston
+B-1430,Milk,Chilled,C,2026-02-09,2026-02-16,387,Refrigerated,New York
+B-1431,Meat,Chilled,A,2026-02-03,2026-02-08,436,Refrigerated,Los Angeles
+B-1432,Onion,Fresh,C,2026-02-07,2026-02-21,205,Ambient,Phoenix
+B-1433,Fish,Chilled,B,2026-02-03,2026-02-08,304,Refrigerated,Chicago
+B-1434,Fish,Chilled,B,2026-02-09,2026-02-14,137,Refrigerated,Phoenix
+B-1435,Fish,Chilled,A,2026-02-06,2026-02-11,393,Refrigerated,Phoenix
+B-1436,Onion,Fresh,C,2026-02-09,2026-02-23,394,Ambient,Los Angeles
+B-1437,Meat,Chilled,C,2026-02-04,2026-02-09,451,Refrigerated,New York
+B-1438,Onion,Fresh,A,2026-02-05,2026-02-19,340,Ambient,Houston
+B-1439,Onion,Fresh,C,2026-02-02,2026-02-16,407,Ambient,Houston
+B-1440,Milk,Chilled,B,2026-02-02,2026-02-09,280,Refrigerated,Houston
+B-1441,Tomato,Fresh,B,2026-02-05,2026-02-19,466,Ambient,Chicago
+B-1442,Milk,Chilled,C,2026-02-07,2026-02-14,251,Refrigerated,Houston
+B-1443,Fish,Chilled,C,2026-02-07,2026-02-12,188,Refrigerated,Los Angeles
+B-1444,Fish,Chilled,A,2026-02-01,2026-02-06,230,Refrigerated,Chicago
+B-1445,Fish,Chilled,A,2026-02-02,2026-02-07,343,Refrigerated,New York
+B-1446,Milk,Chilled,A,2026-02-03,2026-02-10,249,Refrigerated,Phoenix
+B-1447,Fish,Chilled,A,2026-02-04,2026-02-09,369,Refrigerated,New York
+B-1448,Milk,Chilled,B,2026-02-01,2026-02-08,271,Refrigerated,Houston
+B-1449,Onion,Fresh,A,2026-02-01,2026-02-15,90,Ambient,New York
+B-1450,Milk,Chilled,A,2026-02-06,2026-02-13,105,Refrigerated,Houston
+B-1451,Milk,Chilled,A,2026-02-09,2026-02-16,110,Refrigerated,New York
+B-1452,Fish,Chilled,A,2026-01-31,2026-02-05,383,Refrigerated,Houston
+B-1453,Meat,Chilled,B,2026-02-05,2026-02-10,479,Refrigerated,Los Angeles
+B-1454,Meat,Chilled,A,2026-02-03,2026-02-08,423,Refrigerated,Phoenix
+B-1455,Milk,Chilled,B,2026-02-03,2026-02-10,219,Refrigerated,Chicago
+B-1456,Meat,Chilled,B,2026-02-01,2026-02-06,350,Refrigerated,Los Angeles
+B-1457,Meat,Chilled,C,2026-02-04,2026-02-09,333,Refrigerated,Chicago
+B-1458,Meat,Chilled,A,2026-02-09,2026-02-14,228,Refrigerated,New York
+B-1459,Onion,Fresh,B,2026-02-04,2026-02-18,121,Ambient,Los Angeles
+B-1460,Onion,Fresh,A,2026-01-31,2026-02-14,183,Ambient,Los Angeles
+B-1461,Milk,Chilled,C,2026-02-03,2026-02-10,253,Refrigerated,New York
+B-1462,Onion,Fresh,B,2026-01-31,2026-02-14,247,Ambient,Los Angeles
+B-1463,Meat,Chilled,B,2026-01-31,2026-02-05,495,Refrigerated,Los Angeles
+B-1464,Milk,Chilled,B,2026-02-03,2026-02-10,89,Refrigerated,New York
+B-1465,Milk,Chilled,A,2026-02-06,2026-02-13,86,Refrigerated,New York
+B-1466,Fish,Chilled,A,2026-02-04,2026-02-09,371,Refrigerated,Chicago
+B-1467,Onion,Fresh,B,2026-02-02,2026-02-16,236,Ambient,New York
+B-1468,Fish,Chilled,B,2026-01-31,2026-02-05,422,Refrigerated,Phoenix
+B-1469,Onion,Fresh,A,2026-02-06,2026-02-20,250,Ambient,Houston
+B-1470,Onion,Fresh,A,2026-02-05,2026-02-19,117,Ambient,Los Angeles
+B-1471,Fish,Chilled,C,2026-02-03,2026-02-08,103,Refrigerated,Los Angeles
+B-1472,Fish,Chilled,C,2026-02-03,2026-02-08,216,Refrigerated,Houston
+B-1473,Meat,Chilled,B,2026-02-02,2026-02-07,492,Refrigerated,Chicago
+B-1474,Tomato,Fresh,A,2026-02-01,2026-02-15,374,Ambient,Houston
+B-1475,Tomato,Fresh,A,2026-02-06,2026-02-20,183,Ambient,Houston
+B-1476,Milk,Chilled,B,2026-02-09,2026-02-16,400,Refrigerated,New York
+B-1477,Onion,Fresh,C,2026-02-07,2026-02-21,287,Ambient,New York
+B-1478,Onion,Fresh,C,2026-01-31,2026-02-14,116,Ambient,Phoenix
+B-1479,Meat,Chilled,B,2026-02-05,2026-02-10,205,Refrigerated,Chicago
+B-1480,Meat,Chilled,B,2026-02-04,2026-02-09,100,Refrigerated,Chicago
+B-1481,Meat,Chilled,C,2026-02-02,2026-02-07,85,Refrigerated,Houston
+B-1482,Onion,Fresh,C,2026-02-06,2026-02-20,136,Ambient,Phoenix
+B-1483,Meat,Chilled,A,2026-02-03,2026-02-08,308,Refrigerated,Houston
+B-1484,Milk,Chilled,C,2026-02-05,2026-02-12,377,Refrigerated,Phoenix
+B-1485,Tomato,Fresh,A,2026-02-06,2026-02-20,215,Ambient,Chicago
+B-1486,Milk,Chilled,A,2026-02-08,2026-02-15,428,Refrigerated,Los Angeles
+B-1487,Onion,Fresh,B,2026-02-06,2026-02-20,442,Ambient,Los Angeles
+B-1488,Onion,Fresh,A,2026-02-03,2026-02-17,108,Ambient,New York
+B-1489,Tomato,Fresh,B,2026-02-05,2026-02-19,92,Ambient,New York
+B-1490,Meat,Chilled,C,2026-02-03,2026-02-08,459,Refrigerated,New York
+B-1491,Meat,Chilled,B,2026-02-08,2026-02-13,292,Refrigerated,Phoenix
+B-1492,Tomato,Fresh,B,2026-01-31,2026-02-14,131,Ambient,New York
+B-1493,Milk,Chilled,A,2026-02-05,2026-02-12,390,Refrigerated,New York
+B-1494,Onion,Fresh,C,2026-01-31,2026-02-14,153,Ambient,Chicago
+B-1495,Onion,Fresh,A,2026-02-03,2026-02-17,448,Ambient,Chicago
+B-1496,Meat,Chilled,A,2026-02-02,2026-02-07,352,Refrigerated,Phoenix
+B-1497,Milk,Chilled,A,2026-02-03,2026-02-10,382,Refrigerated,Houston
+B-1498,Tomato,Fresh,A,2026-02-03,2026-02-17,350,Ambient,Chicago
+B-1499,Tomato,Fresh,C,2026-02-02,2026-02-16,405,Ambient,Los Angeles
+B-1500,Meat,Chilled,B,2026-02-04,2026-02-09,213,Refrigerated,Phoenix
+B-1501,Fish,Chilled,C,2026-02-03,2026-02-08,283,Refrigerated,Houston
+B-1502,Onion,Fresh,C,2026-02-05,2026-02-19,399,Ambient,Chicago
+B-1503,Fish,Chilled,B,2026-02-01,2026-02-06,138,Refrigerated,Phoenix
+B-1504,Onion,Fresh,B,2026-02-01,2026-02-15,378,Ambient,Phoenix
+B-1505,Meat,Chilled,A,2026-02-09,2026-02-14,71,Refrigerated,Chicago
+B-1506,Tomato,Fresh,A,2026-02-03,2026-02-17,117,Ambient,Houston
+B-1507,Meat,Chilled,B,2026-02-04,2026-02-09,401,Refrigerated,New York
+B-1508,Meat,Chilled,A,2026-02-04,2026-02-09,374,Refrigerated,Chicago
+B-1509,Fish,Chilled,A,2026-02-06,2026-02-11,169,Refrigerated,Los Angeles
+B-1510,Tomato,Fresh,C,2026-02-08,2026-02-22,309,Ambient,Houston
+B-1511,Meat,Chilled,A,2026-02-01,2026-02-06,191,Refrigerated,Los Angeles
+B-1512,Milk,Chilled,A,2026-02-09,2026-02-16,441,Refrigerated,Houston
+B-1513,Fish,Chilled,B,2026-02-04,2026-02-09,93,Refrigerated,Los Angeles
+B-1514,Onion,Fresh,A,2026-02-09,2026-02-23,282,Ambient,Phoenix
+B-1515,Onion,Fresh,C,2026-02-05,2026-02-19,102,Ambient,Chicago
+B-1516,Onion,Fresh,A,2026-02-08,2026-02-22,415,Ambient,Chicago
+B-1517,Milk,Chilled,B,2026-02-02,2026-02-09,450,Refrigerated,New York
+B-1518,Onion,Fresh,B,2026-01-31,2026-02-14,176,Ambient,Houston
+B-1519,Onion,Fresh,C,2026-02-07,2026-02-21,161,Ambient,New York
+B-1520,Tomato,Fresh,C,2026-02-01,2026-02-15,378,Ambient,New York
+B-1521,Tomato,Fresh,A,2026-02-03,2026-02-17,478,Ambient,Houston
+B-1522,Milk,Chilled,B,2026-01-31,2026-02-07,482,Refrigerated,Chicago
+B-1523,Milk,Chilled,A,2026-02-01,2026-02-08,123,Refrigerated,Los Angeles
+B-1524,Milk,Chilled,C,2026-02-05,2026-02-12,484,Refrigerated,Los Angeles
+B-1525,Meat,Chilled,B,2026-02-09,2026-02-14,211,Refrigerated,Los Angeles
+B-1526,Fish,Chilled,C,2026-01-31,2026-02-05,187,Refrigerated,Houston
+B-1527,Tomato,Fresh,A,2026-02-09,2026-02-23,73,Ambient,Phoenix
+B-1528,Onion,Fresh,A,2026-02-09,2026-02-23,98,Ambient,New York
+B-1529,Milk,Chilled,C,2026-02-08,2026-02-15,205,Refrigerated,Los Angeles
+B-1530,Onion,Fresh,A,2026-02-03,2026-02-17,186,Ambient,New York
+B-1531,Meat,Chilled,A,2026-02-03,2026-02-08,209,Refrigerated,Phoenix
+B-1532,Fish,Chilled,C,2026-02-09,2026-02-14,437,Refrigerated,Chicago
+B-1533,Onion,Fresh,C,2026-02-05,2026-02-19,262,Ambient,New York
+B-1534,Fish,Chilled,A,2026-02-08,2026-02-13,390,Refrigerated,Los Angeles
+B-1535,Onion,Fresh,C,2026-02-09,2026-02-23,125,Ambient,Chicago
+B-1536,Fish,Chilled,B,2026-02-06,2026-02-11,196,Refrigerated,Phoenix
+B-1537,Fish,Chilled,C,2026-02-09,2026-02-14,403,Refrigerated,Chicago
+B-1538,Onion,Fresh,B,2026-01-31,2026-02-14,190,Ambient,Chicago
+B-1539,Meat,Chilled,B,2026-02-06,2026-02-11,73,Refrigerated,Phoenix
+B-1540,Tomato,Fresh,C,2026-02-01,2026-02-15,486,Ambient,Houston
+B-1541,Fish,Chilled,C,2026-02-01,2026-02-06,223,Refrigerated,Chicago
+B-1542,Milk,Chilled,A,2026-02-03,2026-02-10,473,Refrigerated,Phoenix
+B-1543,Tomato,Fresh,B,2026-02-09,2026-02-23,125,Ambient,Houston
+B-1544,Fish,Chilled,B,2026-02-07,2026-02-12,219,Refrigerated,Houston
+B-1545,Milk,Chilled,C,2026-02-03,2026-02-10,405,Refrigerated,Chicago
+B-1546,Milk,Chilled,A,2026-02-03,2026-02-10,122,Refrigerated,Houston
+B-1547,Meat,Chilled,B,2026-02-05,2026-02-10,273,Refrigerated,Phoenix
+B-1548,Meat,Chilled,A,2026-02-01,2026-02-06,360,Refrigerated,New York
+B-1549,Milk,Chilled,A,2026-02-09,2026-02-16,68,Refrigerated,Chicago
+B-1550,Tomato,Fresh,B,2026-02-09,2026-02-23,195,Ambient,Chicago
+B-1551,Fish,Chilled,A,2026-02-06,2026-02-11,181,Refrigerated,Chicago
+B-1552,Tomato,Fresh,B,2026-02-03,2026-02-17,103,Ambient,Houston
+B-1553,Meat,Chilled,A,2026-02-06,2026-02-11,157,Refrigerated,Chicago
+B-1554,Fish,Chilled,A,2026-01-31,2026-02-05,435,Refrigerated,Phoenix
+B-1555,Tomato,Fresh,B,2026-02-07,2026-02-21,262,Ambient,New York
+B-1556,Onion,Fresh,A,2026-02-02,2026-02-16,496,Ambient,Chicago
+B-1557,Fish,Chilled,B,2026-02-04,2026-02-09,217,Refrigerated,New York
+B-1558,Milk,Chilled,A,2026-02-05,2026-02-12,108,Refrigerated,Houston
+B-1559,Milk,Chilled,B,2026-02-06,2026-02-13,165,Refrigerated,Phoenix
+B-1560,Tomato,Fresh,B,2026-02-07,2026-02-21,406,Ambient,Houston
+B-1561,Meat,Chilled,A,2026-02-09,2026-02-14,55,Refrigerated,New York
+B-1562,Tomato,Fresh,B,2026-01-31,2026-02-14,295,Ambient,New York
+B-1563,Onion,Fresh,C,2026-02-04,2026-02-18,205,Ambient,New York
+B-1564,Milk,Chilled,A,2026-02-08,2026-02-15,201,Refrigerated,New York
+B-1565,Meat,Chilled,B,2026-01-31,2026-02-05,291,Refrigerated,Phoenix
+B-1566,Fish,Chilled,C,2026-02-04,2026-02-09,123,Refrigerated,New York
+B-1567,Onion,Fresh,C,2026-02-05,2026-02-19,92,Ambient,Chicago
+B-1568,Tomato,Fresh,A,2026-02-01,2026-02-15,130,Ambient,New York
+B-1569,Onion,Fresh,C,2026-02-07,2026-02-21,495,Ambient,New York
+B-1570,Tomato,Fresh,C,2026-02-07,2026-02-21,462,Ambient,New York
+B-1571,Onion,Fresh,B,2026-02-05,2026-02-19,84,Ambient,New York
+B-1572,Fish,Chilled,B,2026-02-01,2026-02-06,128,Refrigerated,New York
+B-1573,Tomato,Fresh,C,2026-02-08,2026-02-22,234,Ambient,New York
+B-1574,Tomato,Fresh,A,2026-02-07,2026-02-21,464,Ambient,Phoenix
+B-1575,Tomato,Fresh,C,2026-02-04,2026-02-18,108,Ambient,New York
+B-1576,Tomato,Fresh,A,2026-02-03,2026-02-17,418,Ambient,Phoenix
+B-1577,Meat,Chilled,B,2026-02-07,2026-02-12,335,Refrigerated,Chicago
+B-1578,Fish,Chilled,A,2026-02-05,2026-02-10,215,Refrigerated,New York
+B-1579,Fish,Chilled,C,2026-01-31,2026-02-05,211,Refrigerated,New York
+B-1580,Fish,Chilled,B,2026-02-05,2026-02-10,71,Refrigerated,Chicago
+B-1581,Onion,Fresh,A,2026-02-03,2026-02-17,320,Ambient,New York
+B-1582,Fish,Chilled,B,2026-02-06,2026-02-11,458,Refrigerated,Los Angeles
+B-1583,Onion,Fresh,B,2026-02-07,2026-02-21,445,Ambient,New York
+B-1584,Onion,Fresh,B,2026-02-04,2026-02-18,500,Ambient,Chicago
+B-1585,Tomato,Fresh,A,2026-02-04,2026-02-18,450,Ambient,Chicago
+B-1586,Tomato,Fresh,B,2026-02-03,2026-02-17,166,Ambient,New York
+B-1587,Milk,Chilled,C,2026-02-01,2026-02-08,141,Refrigerated,Houston
+B-1588,Fish,Chilled,A,2026-02-02,2026-02-07,419,Refrigerated,New York
+B-1589,Milk,Chilled,C,2026-02-01,2026-02-08,173,Refrigerated,New York
+B-1590,Fish,Chilled,A,2026-02-04,2026-02-09,450,Refrigerated,Houston
+B-1591,Fish,Chilled,C,2026-02-08,2026-02-13,377,Refrigerated,Chicago
+B-1592,Milk,Chilled,A,2026-02-09,2026-02-16,265,Refrigerated,Los Angeles
+B-1593,Milk,Chilled,B,2026-02-06,2026-02-13,249,Refrigerated,Houston
+B-1594,Onion,Fresh,A,2026-02-01,2026-02-15,247,Ambient,Phoenix
+B-1595,Onion,Fresh,A,2026-02-04,2026-02-18,148,Ambient,Los Angeles
+B-1596,Tomato,Fresh,B,2026-02-02,2026-02-16,332,Ambient,Los Angeles
+B-1597,Milk,Chilled,C,2026-02-07,2026-02-14,194,Refrigerated,Phoenix
+B-1598,Milk,Chilled,A,2026-02-02,2026-02-09,426,Refrigerated,Los Angeles
+B-1599,Fish,Chilled,C,2026-02-02,2026-02-07,452,Refrigerated,New York
+B-1600,Fish,Chilled,A,2026-02-03,2026-02-08,123,Refrigerated,Chicago
+B-1601,Milk,Chilled,C,2026-02-07,2026-02-14,75,Refrigerated,New York
+B-1602,Milk,Chilled,A,2026-02-05,2026-02-12,206,Refrigerated,New York
+B-1603,Fish,Chilled,C,2026-02-08,2026-02-13,346,Refrigerated,New York
+B-1604,Milk,Chilled,A,2026-02-06,2026-02-13,208,Refrigerated,New York
+B-1605,Tomato,Fresh,A,2026-02-01,2026-02-15,434,Ambient,Los Angeles
+B-1606,Meat,Chilled,A,2026-02-08,2026-02-13,380,Refrigerated,Phoenix
+B-1607,Tomato,Fresh,B,2026-02-09,2026-02-23,245,Ambient,Los Angeles
+B-1608,Tomato,Fresh,A,2026-02-02,2026-02-16,389,Ambient,Houston
+B-1609,Milk,Chilled,C,2026-02-08,2026-02-15,468,Refrigerated,New York
+B-1610,Meat,Chilled,B,2026-02-07,2026-02-12,431,Refrigerated,Chicago
+B-1611,Meat,Chilled,C,2026-02-03,2026-02-08,75,Refrigerated,New York
+B-1612,Meat,Chilled,B,2026-02-04,2026-02-09,361,Refrigerated,Phoenix
+B-1613,Meat,Chilled,B,2026-02-09,2026-02-14,164,Refrigerated,Phoenix
+B-1614,Onion,Fresh,B,2026-02-07,2026-02-21,86,Ambient,Phoenix
+B-1615,Milk,Chilled,A,2026-01-31,2026-02-07,170,Refrigerated,Phoenix
+B-1616,Tomato,Fresh,C,2026-01-31,2026-02-14,361,Ambient,Los Angeles
+B-1617,Meat,Chilled,B,2026-02-06,2026-02-11,397,Refrigerated,New York
+B-1618,Meat,Chilled,A,2026-02-01,2026-02-06,370,Refrigerated,Phoenix
+B-1619,Milk,Chilled,B,2026-02-07,2026-02-14,178,Refrigerated,Los Angeles
+B-1620,Meat,Chilled,C,2026-02-01,2026-02-06,179,Refrigerated,Chicago
+B-1621,Meat,Chilled,B,2026-02-04,2026-02-09,162,Refrigerated,Phoenix
+B-1622,Tomato,Fresh,C,2026-02-01,2026-02-15,106,Ambient,Houston
+B-1623,Onion,Fresh,B,2026-02-08,2026-02-22,383,Ambient,Phoenix
+B-1624,Milk,Chilled,C,2026-02-09,2026-02-16,232,Refrigerated,New York
+B-1625,Fish,Chilled,B,2026-02-01,2026-02-06,468,Refrigerated,Chicago
+B-1626,Tomato,Fresh,A,2026-02-01,2026-02-15,416,Ambient,New York
+B-1627,Tomato,Fresh,A,2026-01-31,2026-02-14,266,Ambient,New York
+B-1628,Fish,Chilled,C,2026-02-06,2026-02-11,124,Refrigerated,Houston
+B-1629,Meat,Chilled,A,2026-02-08,2026-02-13,478,Refrigerated,Chicago
+B-1630,Tomato,Fresh,C,2026-02-05,2026-02-19,334,Ambient,Houston
+B-1631,Tomato,Fresh,B,2026-02-04,2026-02-18,371,Ambient,Phoenix
+B-1632,Onion,Fresh,A,2026-02-01,2026-02-15,345,Ambient,Chicago
+B-1633,Fish,Chilled,A,2026-02-01,2026-02-06,114,Refrigerated,Houston
+B-1634,Fish,Chilled,B,2026-02-02,2026-02-07,437,Refrigerated,Chicago
+B-1635,Tomato,Fresh,C,2026-02-04,2026-02-18,66,Ambient,New York
+B-1636,Fish,Chilled,C,2026-02-03,2026-02-08,342,Refrigerated,Phoenix
+B-1637,Milk,Chilled,A,2026-02-06,2026-02-13,459,Refrigerated,Chicago
+B-1638,Meat,Chilled,C,2026-02-02,2026-02-07,69,Refrigerated,Chicago
+B-1639,Tomato,Fresh,B,2026-02-08,2026-02-22,367,Ambient,Chicago
+B-1640,Meat,Chilled,C,2026-02-04,2026-02-09,256,Refrigerated,Chicago
+B-1641,Fish,Chilled,B,2026-02-05,2026-02-10,337,Refrigerated,Phoenix
+B-1642,Meat,Chilled,A,2026-02-06,2026-02-11,334,Refrigerated,Houston
+B-1643,Milk,Chilled,B,2026-02-07,2026-02-14,240,Refrigerated,Houston
+B-1644,Tomato,Fresh,B,2026-02-09,2026-02-23,82,Ambient,New York
+B-1645,Tomato,Fresh,C,2026-02-06,2026-02-20,321,Ambient,Phoenix
+B-1646,Fish,Chilled,B,2026-02-06,2026-02-11,258,Refrigerated,Phoenix
+B-1647,Tomato,Fresh,A,2026-02-09,2026-02-23,57,Ambient,Chicago
+B-1648,Fish,Chilled,A,2026-02-04,2026-02-09,83,Refrigerated,Houston
+B-1649,Tomato,Fresh,B,2026-02-01,2026-02-15,265,Ambient,Houston
+B-1650,Fish,Chilled,A,2026-02-01,2026-02-06,148,Refrigerated,Phoenix
+B-1651,Fish,Chilled,C,2026-02-02,2026-02-07,491,Refrigerated,Chicago
+B-1652,Milk,Chilled,A,2026-02-07,2026-02-14,139,Refrigerated,Phoenix
+B-1653,Tomato,Fresh,C,2026-02-08,2026-02-22,474,Ambient,Phoenix
+B-1654,Onion,Fresh,B,2026-01-31,2026-02-14,455,Ambient,Chicago
+B-1655,Tomato,Fresh,A,2026-02-03,2026-02-17,130,Ambient,New York
+B-1656,Onion,Fresh,C,2026-02-07,2026-02-21,136,Ambient,Los Angeles
+B-1657,Tomato,Fresh,B,2026-02-04,2026-02-18,192,Ambient,New York
+B-1658,Onion,Fresh,C,2026-02-09,2026-02-23,443,Ambient,Phoenix
+B-1659,Meat,Chilled,A,2026-02-09,2026-02-14,382,Refrigerated,Chicago
+B-1660,Meat,Chilled,A,2026-02-06,2026-02-11,421,Refrigerated,Los Angeles
+B-1661,Onion,Fresh,A,2026-02-07,2026-02-21,408,Ambient,Houston
+B-1662,Meat,Chilled,A,2026-01-31,2026-02-05,357,Refrigerated,Houston
+B-1663,Tomato,Fresh,C,2026-01-31,2026-02-14,166,Ambient,Houston
+B-1664,Onion,Fresh,A,2026-02-02,2026-02-16,185,Ambient,Chicago
+B-1665,Milk,Chilled,C,2026-02-09,2026-02-16,53,Refrigerated,Houston
+B-1666,Tomato,Fresh,B,2026-02-02,2026-02-16,439,Ambient,Chicago
+B-1667,Meat,Chilled,C,2026-02-06,2026-02-11,499,Refrigerated,Houston
+B-1668,Fish,Chilled,C,2026-02-07,2026-02-12,155,Refrigerated,New York
+B-1669,Onion,Fresh,A,2026-02-09,2026-02-23,292,Ambient,Phoenix
+B-1670,Fish,Chilled,C,2026-02-07,2026-02-12,254,Refrigerated,Los Angeles
+B-1671,Tomato,Fresh,B,2026-02-03,2026-02-17,88,Ambient,Chicago
+B-1672,Onion,Fresh,B,2026-01-31,2026-02-14,496,Ambient,Houston
+B-1673,Onion,Fresh,B,2026-01-31,2026-02-14,66,Ambient,New York
+B-1674,Tomato,Fresh,C,2026-02-03,2026-02-17,421,Ambient,Houston
+B-1675,Onion,Fresh,C,2026-01-31,2026-02-14,309,Ambient,Los Angeles
+B-1676,Fish,Chilled,A,2026-02-01,2026-02-06,361,Refrigerated,Chicago
+B-1677,Milk,Chilled,A,2026-02-02,2026-02-09,265,Refrigerated,Houston
+B-1678,Fish,Chilled,C,2026-02-01,2026-02-06,237,Refrigerated,Phoenix
+B-1679,Fish,Chilled,B,2026-01-31,2026-02-05,345,Refrigerated,Phoenix
+B-1680,Tomato,Fresh,A,2026-02-08,2026-02-22,341,Ambient,New York
+B-1681,Onion,Fresh,C,2026-02-07,2026-02-21,475,Ambient,New York
+B-1682,Fish,Chilled,B,2026-02-03,2026-02-08,224,Refrigerated,Los Angeles
+B-1683,Tomato,Fresh,C,2026-02-09,2026-02-23,406,Ambient,Chicago
+B-1684,Milk,Chilled,B,2026-02-04,2026-02-11,393,Refrigerated,New York
+B-1685,Onion,Fresh,B,2026-02-05,2026-02-19,371,Ambient,Los Angeles
+B-1686,Meat,Chilled,C,2026-02-05,2026-02-10,422,Refrigerated,New York
+B-1687,Tomato,Fresh,B,2026-02-06,2026-02-20,481,Ambient,Houston
+B-1688,Onion,Fresh,B,2026-01-31,2026-02-14,121,Ambient,Houston
+B-1689,Milk,Chilled,C,2026-02-01,2026-02-08,242,Refrigerated,Houston
+B-1690,Milk,Chilled,A,2026-02-03,2026-02-10,314,Refrigerated,New York
+B-1691,Fish,Chilled,A,2026-02-08,2026-02-13,475,Refrigerated,Phoenix
+B-1692,Onion,Fresh,A,2026-02-07,2026-02-21,337,Ambient,Phoenix
+B-1693,Meat,Chilled,A,2026-02-01,2026-02-06,220,Refrigerated,Houston
+B-1694,Tomato,Fresh,A,2026-02-01,2026-02-15,431,Ambient,New York
+B-1695,Milk,Chilled,B,2026-02-01,2026-02-08,317,Refrigerated,Chicago
+B-1696,Milk,Chilled,C,2026-02-08,2026-02-15,327,Refrigerated,Chicago
+B-1697,Milk,Chilled,A,2026-02-06,2026-02-13,184,Refrigerated,New York
+B-1698,Fish,Chilled,B,2026-02-05,2026-02-10,291,Refrigerated,Chicago
+B-1699,Milk,Chilled,C,2026-02-02,2026-02-09,303,Refrigerated,Houston
+B-1700,Milk,Chilled,B,2026-02-03,2026-02-10,282,Refrigerated,Phoenix
+B-1701,Milk,Chilled,A,2026-02-08,2026-02-15,437,Refrigerated,Phoenix
+B-1702,Tomato,Fresh,A,2026-02-05,2026-02-19,347,Ambient,Houston
+B-1703,Tomato,Fresh,C,2026-02-03,2026-02-17,169,Ambient,New York
+B-1704,Milk,Chilled,C,2026-02-02,2026-02-09,116,Refrigerated,New York
+B-1705,Milk,Chilled,A,2026-02-04,2026-02-11,356,Refrigerated,Los Angeles
+B-1706,Meat,Chilled,B,2026-01-31,2026-02-05,422,Refrigerated,Los Angeles
+B-1707,Tomato,Fresh,C,2026-02-06,2026-02-20,421,Ambient,Chicago
+B-1708,Fish,Chilled,B,2026-02-06,2026-02-11,231,Refrigerated,Houston
+B-1709,Tomato,Fresh,B,2026-02-06,2026-02-20,200,Ambient,Phoenix
+B-1710,Fish,Chilled,A,2026-02-09,2026-02-14,405,Refrigerated,Phoenix
+B-1711,Onion,Fresh,A,2026-02-09,2026-02-23,454,Ambient,Phoenix
+B-1712,Tomato,Fresh,B,2026-02-02,2026-02-16,388,Ambient,New York
+B-1713,Tomato,Fresh,A,2026-01-31,2026-02-14,474,Ambient,New York
+B-1714,Meat,Chilled,C,2026-02-07,2026-02-12,109,Refrigerated,Phoenix
+B-1715,Tomato,Fresh,B,2026-02-07,2026-02-21,475,Ambient,Los Angeles
+B-1716,Meat,Chilled,C,2026-01-31,2026-02-05,113,Refrigerated,New York
+B-1717,Fish,Chilled,B,2026-02-03,2026-02-08,407,Refrigerated,Houston
+B-1718,Meat,Chilled,C,2026-02-05,2026-02-10,281,Refrigerated,Los Angeles
+B-1719,Meat,Chilled,C,2026-02-02,2026-02-07,316,Refrigerated,Phoenix
+B-1720,Onion,Fresh,A,2026-02-09,2026-02-23,453,Ambient,Phoenix
+B-1721,Tomato,Fresh,C,2026-02-05,2026-02-19,249,Ambient,Phoenix
+B-1722,Fish,Chilled,B,2026-02-04,2026-02-09,406,Refrigerated,Los Angeles
+B-1723,Tomato,Fresh,A,2026-02-09,2026-02-23,260,Ambient,Houston
+B-1724,Meat,Chilled,A,2026-02-03,2026-02-08,366,Refrigerated,Houston
+B-1725,Onion,Fresh,A,2026-02-07,2026-02-21,181,Ambient,New York
+B-1726,Onion,Fresh,A,2026-02-06,2026-02-20,307,Ambient,Phoenix
+B-1727,Fish,Chilled,B,2026-02-07,2026-02-12,467,Refrigerated,Phoenix
+B-1728,Tomato,Fresh,C,2026-01-31,2026-02-14,151,Ambient,Chicago
+B-1729,Fish,Chilled,C,2026-02-08,2026-02-13,222,Refrigerated,Houston
+B-1730,Meat,Chilled,B,2026-02-02,2026-02-07,396,Refrigerated,Phoenix
+B-1731,Meat,Chilled,A,2026-02-05,2026-02-10,393,Refrigerated,New York
+B-1732,Onion,Fresh,C,2026-02-03,2026-02-17,194,Ambient,Los Angeles
+B-1733,Fish,Chilled,B,2026-02-08,2026-02-13,500,Refrigerated,New York
+B-1734,Tomato,Fresh,A,2026-02-01,2026-02-15,118,Ambient,Houston
+B-1735,Meat,Chilled,A,2026-02-02,2026-02-07,391,Refrigerated,Houston
+B-1736,Fish,Chilled,B,2026-02-09,2026-02-14,448,Refrigerated,Phoenix
+B-1737,Meat,Chilled,B,2026-02-04,2026-02-09,217,Refrigerated,Phoenix
+B-1738,Tomato,Fresh,A,2026-02-07,2026-02-21,486,Ambient,Los Angeles
+B-1739,Meat,Chilled,B,2026-02-09,2026-02-14,187,Refrigerated,Phoenix
+B-1740,Meat,Chilled,B,2026-02-07,2026-02-12,382,Refrigerated,New York
+B-1741,Fish,Chilled,B,2026-02-05,2026-02-10,162,Refrigerated,Los Angeles
+B-1742,Milk,Chilled,B,2026-02-02,2026-02-09,195,Refrigerated,New York
+B-1743,Fish,Chilled,A,2026-02-03,2026-02-08,184,Refrigerated,New York
+B-1744,Onion,Fresh,C,2026-02-03,2026-02-17,111,Ambient,Phoenix
+B-1745,Tomato,Fresh,C,2026-02-01,2026-02-15,124,Ambient,New York
+B-1746,Milk,Chilled,C,2026-02-02,2026-02-09,419,Refrigerated,New York
+B-1747,Onion,Fresh,B,2026-02-04,2026-02-18,236,Ambient,Phoenix
+B-1748,Meat,Chilled,C,2026-02-06,2026-02-11,122,Refrigerated,Houston
+B-1749,Fish,Chilled,A,2026-02-02,2026-02-07,411,Refrigerated,Phoenix
+B-1750,Fish,Chilled,C,2026-01-31,2026-02-05,491,Refrigerated,New York
+B-1751,Onion,Fresh,B,2026-02-04,2026-02-18,174,Ambient,New York
+B-1752,Fish,Chilled,A,2026-02-03,2026-02-08,487,Refrigerated,New York
+B-1753,Onion,Fresh,B,2026-02-07,2026-02-21,355,Ambient,Houston
+B-1754,Milk,Chilled,C,2026-01-31,2026-02-07,104,Refrigerated,Los Angeles
+B-1755,Tomato,Fresh,C,2026-01-31,2026-02-14,281,Ambient,New York
+B-1756,Meat,Chilled,C,2026-02-02,2026-02-07,134,Refrigerated,New York
+B-1757,Tomato,Fresh,A,2026-01-31,2026-02-14,57,Ambient,Phoenix
+B-1758,Tomato,Fresh,C,2026-02-02,2026-02-16,98,Ambient,Phoenix
+B-1759,Milk,Chilled,A,2026-02-05,2026-02-12,157,Refrigerated,Phoenix
+B-1760,Meat,Chilled,C,2026-02-08,2026-02-13,493,Refrigerated,New York
+B-1761,Fish,Chilled,B,2026-02-09,2026-02-14,360,Refrigerated,Houston
+B-1762,Meat,Chilled,B,2026-02-07,2026-02-12,235,Refrigerated,New York
+B-1763,Tomato,Fresh,B,2026-02-09,2026-02-23,105,Ambient,Los Angeles
+B-1764,Onion,Fresh,A,2026-02-05,2026-02-19,459,Ambient,New York
+B-1765,Milk,Chilled,B,2026-02-09,2026-02-16,59,Refrigerated,Los Angeles
+B-1766,Fish,Chilled,B,2026-02-05,2026-02-10,286,Refrigerated,New York
+B-1767,Fish,Chilled,A,2026-02-06,2026-02-11,464,Refrigerated,New York
+B-1768,Fish,Chilled,A,2026-01-31,2026-02-05,488,Refrigerated,Chicago
+B-1769,Fish,Chilled,A,2026-02-09,2026-02-14,334,Refrigerated,Los Angeles
+B-1770,Fish,Chilled,A,2026-02-02,2026-02-07,330,Refrigerated,Chicago
+B-1771,Meat,Chilled,A,2026-02-04,2026-02-09,240,Refrigerated,Phoenix
+B-1772,Milk,Chilled,A,2026-02-03,2026-02-10,250,Refrigerated,Los Angeles
+B-1773,Tomato,Fresh,C,2026-01-31,2026-02-14,398,Ambient,Phoenix
+B-1774,Meat,Chilled,A,2026-02-09,2026-02-14,317,Refrigerated,New York
+B-1775,Onion,Fresh,B,2026-01-31,2026-02-14,399,Ambient,Chicago
+B-1776,Milk,Chilled,B,2026-02-05,2026-02-12,280,Refrigerated,Los Angeles
+B-1777,Fish,Chilled,A,2026-02-01,2026-02-06,288,Refrigerated,New York
+B-1778,Fish,Chilled,B,2026-02-04,2026-02-09,119,Refrigerated,Phoenix
+B-1779,Tomato,Fresh,A,2026-02-01,2026-02-15,291,Ambient,Phoenix
+B-1780,Tomato,Fresh,C,2026-02-07,2026-02-21,283,Ambient,Chicago
+B-1781,Tomato,Fresh,B,2026-01-31,2026-02-14,336,Ambient,New York
+B-1782,Meat,Chilled,B,2026-02-02,2026-02-07,78,Refrigerated,Houston
+B-1783,Milk,Chilled,A,2026-02-09,2026-02-16,387,Refrigerated,Phoenix
+B-1784,Fish,Chilled,A,2026-02-07,2026-02-12,270,Refrigerated,Houston
+B-1785,Milk,Chilled,A,2026-02-05,2026-02-12,462,Refrigerated,Phoenix
+B-1786,Onion,Fresh,B,2026-01-31,2026-02-14,119,Ambient,Houston
+B-1787,Tomato,Fresh,C,2026-02-05,2026-02-19,354,Ambient,Los Angeles
+B-1788,Milk,Chilled,B,2026-01-31,2026-02-07,403,Refrigerated,Houston
+B-1789,Milk,Chilled,B,2026-02-03,2026-02-10,394,Refrigerated,Los Angeles
+B-1790,Onion,Fresh,A,2026-02-02,2026-02-16,110,Ambient,Los Angeles
+B-1791,Onion,Fresh,C,2026-02-09,2026-02-23,246,Ambient,Los Angeles
+B-1792,Fish,Chilled,C,2026-02-03,2026-02-08,204,Refrigerated,Houston
+B-1793,Milk,Chilled,B,2026-02-03,2026-02-10,102,Refrigerated,New York
+B-1794,Onion,Fresh,C,2026-02-08,2026-02-22,250,Ambient,New York
+B-1795,Meat,Chilled,C,2026-02-06,2026-02-11,71,Refrigerated,Phoenix
+B-1796,Milk,Chilled,A,2026-01-31,2026-02-07,495,Refrigerated,Los Angeles
+B-1797,Milk,Chilled,A,2026-02-08,2026-02-15,352,Refrigerated,New York
+B-1798,Fish,Chilled,C,2026-02-03,2026-02-08,315,Refrigerated,Chicago
+B-1799,Onion,Fresh,B,2026-01-31,2026-02-14,285,Ambient,Los Angeles
+B-1800,Milk,Chilled,B,2026-02-06,2026-02-13,91,Refrigerated,Houston
+B-1801,Meat,Chilled,A,2026-02-02,2026-02-07,374,Refrigerated,Houston
+B-1802,Onion,Fresh,A,2026-01-31,2026-02-14,493,Ambient,Los Angeles
+B-1803,Fish,Chilled,A,2026-02-09,2026-02-14,237,Refrigerated,Chicago
+B-1804,Onion,Fresh,C,2026-02-01,2026-02-15,331,Ambient,Los Angeles
+B-1805,Tomato,Fresh,A,2026-02-08,2026-02-22,247,Ambient,Phoenix
+B-1806,Fish,Chilled,B,2026-02-01,2026-02-06,276,Refrigerated,Phoenix
+B-1807,Tomato,Fresh,B,2026-02-04,2026-02-18,137,Ambient,Phoenix
+B-1808,Milk,Chilled,A,2026-02-06,2026-02-13,107,Refrigerated,Los Angeles
+B-1809,Meat,Chilled,B,2026-02-08,2026-02-13,278,Refrigerated,Houston
+B-1810,Tomato,Fresh,C,2026-02-03,2026-02-17,286,Ambient,New York
+B-1811,Tomato,Fresh,A,2026-02-01,2026-02-15,78,Ambient,New York
+B-1812,Meat,Chilled,A,2026-02-09,2026-02-14,392,Refrigerated,Phoenix
+B-1813,Fish,Chilled,C,2026-02-08,2026-02-13,262,Refrigerated,New York
+B-1814,Onion,Fresh,A,2026-02-07,2026-02-21,329,Ambient,Los Angeles
+B-1815,Tomato,Fresh,B,2026-02-09,2026-02-23,409,Ambient,New York
+B-1816,Tomato,Fresh,A,2026-02-08,2026-02-22,289,Ambient,Chicago
+B-1817,Onion,Fresh,A,2026-02-04,2026-02-18,293,Ambient,Houston
+B-1818,Milk,Chilled,C,2026-02-03,2026-02-10,74,Refrigerated,Phoenix
+B-1819,Milk,Chilled,C,2026-01-31,2026-02-07,196,Refrigerated,New York
+B-1820,Fish,Chilled,A,2026-01-31,2026-02-05,302,Refrigerated,New York
+B-1821,Milk,Chilled,B,2026-02-09,2026-02-16,224,Refrigerated,Phoenix
+B-1822,Tomato,Fresh,C,2026-02-04,2026-02-18,470,Ambient,New York
+B-1823,Meat,Chilled,C,2026-02-04,2026-02-09,218,Refrigerated,Chicago
+B-1824,Onion,Fresh,C,2026-02-05,2026-02-19,156,Ambient,Chicago
+B-1825,Meat,Chilled,B,2026-02-08,2026-02-13,272,Refrigerated,Phoenix
+B-1826,Meat,Chilled,C,2026-01-31,2026-02-05,180,Refrigerated,New York
+B-1827,Fish,Chilled,C,2026-02-09,2026-02-14,295,Refrigerated,Houston
+B-1828,Onion,Fresh,C,2026-02-08,2026-02-22,180,Ambient,New York
+B-1829,Tomato,Fresh,B,2026-02-08,2026-02-22,365,Ambient,Los Angeles
+B-1830,Fish,Chilled,A,2026-02-08,2026-02-13,79,Refrigerated,Phoenix
+B-1831,Onion,Fresh,B,2026-02-03,2026-02-17,81,Ambient,Los Angeles
+B-1832,Meat,Chilled,B,2026-02-04,2026-02-09,203,Refrigerated,Phoenix
+B-1833,Tomato,Fresh,B,2026-02-03,2026-02-17,144,Ambient,Los Angeles
+B-1834,Meat,Chilled,A,2026-02-09,2026-02-14,170,Refrigerated,Houston
+B-1835,Tomato,Fresh,A,2026-02-01,2026-02-15,58,Ambient,New York
+B-1836,Milk,Chilled,A,2026-02-07,2026-02-14,400,Refrigerated,Chicago
+B-1837,Meat,Chilled,A,2026-02-09,2026-02-14,386,Refrigerated,New York
+B-1838,Milk,Chilled,A,2026-02-06,2026-02-13,467,Refrigerated,Los Angeles
+B-1839,Meat,Chilled,A,2026-02-02,2026-02-07,407,Refrigerated,New York
+B-1840,Onion,Fresh,B,2026-02-07,2026-02-21,443,Ambient,New York
+B-1841,Tomato,Fresh,C,2026-02-04,2026-02-18,320,Ambient,Phoenix
+B-1842,Fish,Chilled,B,2026-02-09,2026-02-14,329,Refrigerated,New York
+B-1843,Milk,Chilled,A,2026-02-03,2026-02-10,473,Refrigerated,New York
+B-1844,Meat,Chilled,B,2026-02-02,2026-02-07,185,Refrigerated,New York
+B-1845,Fish,Chilled,A,2026-02-01,2026-02-06,197,Refrigerated,Chicago
+B-1846,Milk,Chilled,A,2026-01-31,2026-02-07,79,Refrigerated,New York
+B-1847,Milk,Chilled,A,2026-02-05,2026-02-12,184,Refrigerated,Houston
+B-1848,Fish,Chilled,A,2026-02-05,2026-02-10,370,Refrigerated,Phoenix
+B-1849,Fish,Chilled,A,2026-01-31,2026-02-05,466,Refrigerated,Houston
+B-1850,Tomato,Fresh,A,2026-02-03,2026-02-17,253,Ambient,Chicago
+B-1851,Tomato,Fresh,A,2026-02-05,2026-02-19,462,Ambient,New York
+B-1852,Onion,Fresh,A,2026-02-09,2026-02-23,475,Ambient,Phoenix
+B-1853,Milk,Chilled,B,2026-02-06,2026-02-13,264,Refrigerated,Houston
+B-1854,Fish,Chilled,B,2026-02-05,2026-02-10,94,Refrigerated,Los Angeles
+B-1855,Fish,Chilled,A,2026-02-01,2026-02-06,263,Refrigerated,Los Angeles
+B-1856,Tomato,Fresh,C,2026-02-05,2026-02-19,222,Ambient,Los Angeles
+B-1857,Milk,Chilled,C,2026-02-06,2026-02-13,222,Refrigerated,Chicago
+B-1858,Onion,Fresh,A,2026-02-03,2026-02-17,380,Ambient,Houston
+B-1859,Tomato,Fresh,B,2026-02-03,2026-02-17,59,Ambient,Houston
+B-1860,Onion,Fresh,C,2026-02-08,2026-02-22,180,Ambient,Los Angeles
+B-1861,Meat,Chilled,C,2026-02-01,2026-02-06,74,Refrigerated,New York
+B-1862,Meat,Chilled,A,2026-02-09,2026-02-14,500,Refrigerated,Phoenix
+B-1863,Meat,Chilled,C,2026-02-04,2026-02-09,183,Refrigerated,Houston
+B-1864,Onion,Fresh,C,2026-02-08,2026-02-22,86,Ambient,New York
+B-1865,Meat,Chilled,B,2026-01-31,2026-02-05,162,Refrigerated,Los Angeles
+B-1866,Meat,Chilled,C,2026-02-09,2026-02-14,273,Refrigerated,Chicago
+B-1867,Tomato,Fresh,C,2026-02-01,2026-02-15,428,Ambient,Phoenix
+B-1868,Meat,Chilled,C,2026-02-06,2026-02-11,465,Refrigerated,Chicago
+B-1869,Onion,Fresh,C,2026-02-03,2026-02-17,391,Ambient,Chicago
+B-1870,Meat,Chilled,B,2026-02-08,2026-02-13,399,Refrigerated,Houston
+B-1871,Tomato,Fresh,C,2026-01-31,2026-02-14,60,Ambient,Houston
+B-1872,Tomato,Fresh,A,2026-02-09,2026-02-23,94,Ambient,Houston
+B-1873,Tomato,Fresh,A,2026-02-02,2026-02-16,130,Ambient,Phoenix
+B-1874,Milk,Chilled,B,2026-02-02,2026-02-09,92,Refrigerated,Chicago
+B-1875,Onion,Fresh,B,2026-02-02,2026-02-16,137,Ambient,Houston
+B-1876,Tomato,Fresh,B,2026-02-09,2026-02-23,228,Ambient,Houston
+B-1877,Tomato,Fresh,A,2026-01-31,2026-02-14,454,Ambient,Chicago
+B-1878,Fish,Chilled,C,2026-02-09,2026-02-14,338,Refrigerated,New York
+B-1879,Meat,Chilled,A,2026-02-03,2026-02-08,128,Refrigerated,Houston
+B-1880,Onion,Fresh,C,2026-02-06,2026-02-20,77,Ambient,New York
+B-1881,Fish,Chilled,C,2026-02-06,2026-02-11,74,Refrigerated,Los Angeles
+B-1882,Tomato,Fresh,C,2026-01-31,2026-02-14,263,Ambient,New York
+B-1883,Milk,Chilled,A,2026-02-06,2026-02-13,250,Refrigerated,Phoenix
+B-1884,Fish,Chilled,C,2026-02-03,2026-02-08,287,Refrigerated,New York
+B-1885,Tomato,Fresh,C,2026-02-06,2026-02-20,220,Ambient,Los Angeles
+B-1886,Fish,Chilled,B,2026-02-09,2026-02-14,371,Refrigerated,Chicago
+B-1887,Meat,Chilled,A,2026-02-07,2026-02-12,377,Refrigerated,Phoenix
+B-1888,Fish,Chilled,B,2026-02-02,2026-02-07,228,Refrigerated,Los Angeles
+B-1889,Milk,Chilled,B,2026-01-31,2026-02-07,438,Refrigerated,Houston
+B-1890,Milk,Chilled,B,2026-02-01,2026-02-08,148,Refrigerated,Los Angeles
+B-1891,Meat,Chilled,B,2026-02-01,2026-02-06,466,Refrigerated,Los Angeles
+B-1892,Onion,Fresh,C,2026-02-07,2026-02-21,79,Ambient,Phoenix
+B-1893,Meat,Chilled,B,2026-02-08,2026-02-13,116,Refrigerated,New York
+B-1894,Onion,Fresh,B,2026-02-09,2026-02-23,139,Ambient,New York
+B-1895,Fish,Chilled,B,2026-02-03,2026-02-08,496,Refrigerated,Phoenix
+B-1896,Onion,Fresh,C,2026-02-03,2026-02-17,194,Ambient,Houston
+B-1897,Tomato,Fresh,C,2026-02-02,2026-02-16,99,Ambient,Los Angeles
+B-1898,Milk,Chilled,A,2026-01-31,2026-02-07,444,Refrigerated,Los Angeles
+B-1899,Milk,Chilled,C,2026-02-06,2026-02-13,188,Refrigerated,Houston
+B-1900,Onion,Fresh,A,2026-02-02,2026-02-16,151,Ambient,Houston
+B-1901,Tomato,Fresh,A,2026-02-04,2026-02-18,250,Ambient,New York
+B-1902,Tomato,Fresh,C,2026-02-02,2026-02-16,497,Ambient,Los Angeles
+B-1903,Fish,Chilled,C,2026-02-09,2026-02-14,250,Refrigerated,New York
+B-1904,Meat,Chilled,C,2026-02-04,2026-02-09,221,Refrigerated,Chicago
+B-1905,Tomato,Fresh,C,2026-02-05,2026-02-19,432,Ambient,Houston
+B-1906,Tomato,Fresh,A,2026-01-31,2026-02-14,496,Ambient,Phoenix
+B-1907,Onion,Fresh,B,2026-02-09,2026-02-23,294,Ambient,Houston
+B-1908,Onion,Fresh,B,2026-02-09,2026-02-23,374,Ambient,Phoenix
+B-1909,Meat,Chilled,B,2026-02-09,2026-02-14,282,Refrigerated,Phoenix
+B-1910,Onion,Fresh,C,2026-02-07,2026-02-21,116,Ambient,Los Angeles
+B-1911,Tomato,Fresh,B,2026-02-01,2026-02-15,344,Ambient,Phoenix
+B-1912,Meat,Chilled,C,2026-02-06,2026-02-11,130,Refrigerated,New York
+B-1913,Meat,Chilled,A,2026-02-01,2026-02-06,261,Refrigerated,Phoenix
+B-1914,Milk,Chilled,A,2026-02-04,2026-02-11,183,Refrigerated,Los Angeles
+B-1915,Tomato,Fresh,C,2026-02-04,2026-02-18,398,Ambient,Chicago
+B-1916,Tomato,Fresh,C,2026-02-05,2026-02-19,414,Ambient,Los Angeles
+B-1917,Milk,Chilled,B,2026-02-06,2026-02-13,211,Refrigerated,Chicago
+B-1918,Onion,Fresh,B,2026-02-07,2026-02-21,336,Ambient,Los Angeles
+B-1919,Onion,Fresh,B,2026-02-09,2026-02-23,50,Ambient,Phoenix
+B-1920,Fish,Chilled,B,2026-02-07,2026-02-12,471,Refrigerated,New York
+B-1921,Fish,Chilled,B,2026-02-02,2026-02-07,269,Refrigerated,New York
+B-1922,Fish,Chilled,A,2026-02-03,2026-02-08,146,Refrigerated,Houston
+B-1923,Milk,Chilled,A,2026-02-09,2026-02-16,295,Refrigerated,Chicago
+B-1924,Milk,Chilled,C,2026-02-04,2026-02-11,475,Refrigerated,New York
+B-1925,Tomato,Fresh,C,2026-01-31,2026-02-14,243,Ambient,Los Angeles
+B-1926,Milk,Chilled,A,2026-02-08,2026-02-15,163,Refrigerated,Chicago
+B-1927,Milk,Chilled,A,2026-02-08,2026-02-15,437,Refrigerated,Chicago
+B-1928,Meat,Chilled,C,2026-02-04,2026-02-09,425,Refrigerated,Los Angeles
+B-1929,Meat,Chilled,C,2026-02-04,2026-02-09,290,Refrigerated,Chicago
+B-1930,Fish,Chilled,A,2026-02-02,2026-02-07,453,Refrigerated,New York
+B-1931,Tomato,Fresh,B,2026-02-07,2026-02-21,238,Ambient,Houston
+B-1932,Meat,Chilled,B,2026-01-31,2026-02-05,346,Refrigerated,New York
+B-1933,Onion,Fresh,A,2026-02-06,2026-02-20,247,Ambient,Los Angeles
+B-1934,Meat,Chilled,A,2026-02-05,2026-02-10,136,Refrigerated,Houston
+B-1935,Tomato,Fresh,C,2026-02-06,2026-02-20,342,Ambient,Chicago
+B-1936,Fish,Chilled,C,2026-02-05,2026-02-10,126,Refrigerated,Houston
+B-1937,Onion,Fresh,B,2026-02-01,2026-02-15,323,Ambient,Chicago
+B-1938,Onion,Fresh,C,2026-02-09,2026-02-23,451,Ambient,New York
+B-1939,Onion,Fresh,B,2026-02-08,2026-02-22,53,Ambient,Phoenix
+B-1940,Meat,Chilled,A,2026-02-02,2026-02-07,288,Refrigerated,New York
+B-1941,Milk,Chilled,A,2026-02-02,2026-02-09,279,Refrigerated,Los Angeles
+B-1942,Milk,Chilled,A,2026-02-06,2026-02-13,139,Refrigerated,New York
+B-1943,Meat,Chilled,C,2026-02-07,2026-02-12,381,Refrigerated,Los Angeles
+B-1944,Onion,Fresh,A,2026-02-06,2026-02-20,431,Ambient,New York
+B-1945,Tomato,Fresh,C,2026-02-04,2026-02-18,397,Ambient,Chicago
+B-1946,Fish,Chilled,B,2026-02-02,2026-02-07,496,Refrigerated,New York
+B-1947,Onion,Fresh,A,2026-02-07,2026-02-21,454,Ambient,New York
+B-1948,Meat,Chilled,B,2026-01-31,2026-02-05,142,Refrigerated,Houston
+B-1949,Fish,Chilled,B,2026-02-09,2026-02-14,172,Refrigerated,Los Angeles
+B-1950,Onion,Fresh,B,2026-02-06,2026-02-20,458,Ambient,Houston
+B-1951,Milk,Chilled,C,2026-02-01,2026-02-08,318,Refrigerated,Chicago
+B-1952,Tomato,Fresh,B,2026-02-08,2026-02-22,252,Ambient,New York
+B-1953,Fish,Chilled,C,2026-02-02,2026-02-07,122,Refrigerated,Phoenix
+B-1954,Fish,Chilled,C,2026-01-31,2026-02-05,362,Refrigerated,Phoenix
+B-1955,Tomato,Fresh,A,2026-02-08,2026-02-22,493,Ambient,Chicago
+B-1956,Onion,Fresh,C,2026-02-08,2026-02-22,362,Ambient,Los Angeles
+B-1957,Tomato,Fresh,A,2026-02-09,2026-02-23,457,Ambient,Los Angeles
+B-1958,Milk,Chilled,C,2026-02-03,2026-02-10,354,Refrigerated,Chicago
+B-1959,Milk,Chilled,B,2026-02-09,2026-02-16,51,Refrigerated,Los Angeles
+B-1960,Meat,Chilled,A,2026-02-08,2026-02-13,394,Refrigerated,New York
+B-1961,Tomato,Fresh,B,2026-02-03,2026-02-17,191,Ambient,New York
+B-1962,Tomato,Fresh,A,2026-02-08,2026-02-22,454,Ambient,Houston
+B-1963,Onion,Fresh,C,2026-02-09,2026-02-23,432,Ambient,Chicago
+B-1964,Meat,Chilled,A,2026-02-05,2026-02-10,232,Refrigerated,Phoenix
+B-1965,Fish,Chilled,C,2026-01-31,2026-02-05,363,Refrigerated,Phoenix
+B-1966,Tomato,Fresh,B,2026-02-04,2026-02-18,298,Ambient,Los Angeles
+B-1967,Onion,Fresh,A,2026-02-06,2026-02-20,108,Ambient,New York
+B-1968,Meat,Chilled,A,2026-01-31,2026-02-05,110,Refrigerated,Phoenix
+B-1969,Fish,Chilled,B,2026-02-06,2026-02-11,89,Refrigerated,New York
+B-1970,Fish,Chilled,C,2026-02-04,2026-02-09,208,Refrigerated,Houston
+B-1971,Meat,Chilled,B,2026-02-01,2026-02-06,437,Refrigerated,New York
+B-1972,Milk,Chilled,C,2026-02-04,2026-02-11,285,Refrigerated,Houston
+B-1973,Milk,Chilled,A,2026-02-01,2026-02-08,346,Refrigerated,Houston
+B-1974,Onion,Fresh,C,2026-01-31,2026-02-14,474,Ambient,New York
+B-1975,Onion,Fresh,A,2026-02-09,2026-02-23,326,Ambient,Houston
+B-1976,Tomato,Fresh,B,2026-02-09,2026-02-23,310,Ambient,Houston
+B-1977,Fish,Chilled,A,2026-02-03,2026-02-08,411,Refrigerated,Phoenix
+B-1978,Fish,Chilled,A,2026-02-08,2026-02-13,363,Refrigerated,Phoenix
+B-1979,Meat,Chilled,A,2026-02-05,2026-02-10,402,Refrigerated,Chicago
+B-1980,Onion,Fresh,C,2026-02-06,2026-02-20,252,Ambient,Houston
+B-1981,Milk,Chilled,C,2026-02-09,2026-02-16,210,Refrigerated,New York
+B-1982,Onion,Fresh,A,2026-02-03,2026-02-17,51,Ambient,New York
+B-1983,Tomato,Fresh,C,2026-02-07,2026-02-21,386,Ambient,Los Angeles
+B-1984,Milk,Chilled,A,2026-02-03,2026-02-10,367,Refrigerated,Phoenix
+B-1985,Milk,Chilled,C,2026-02-01,2026-02-08,246,Refrigerated,Phoenix
+B-1986,Meat,Chilled,A,2026-02-09,2026-02-14,498,Refrigerated,New York
+B-1987,Fish,Chilled,B,2026-02-02,2026-02-07,211,Refrigerated,Chicago
+B-1988,Meat,Chilled,A,2026-01-31,2026-02-05,461,Refrigerated,Los Angeles
+B-1989,Fish,Chilled,A,2026-02-05,2026-02-10,440,Refrigerated,New York
+B-1990,Fish,Chilled,C,2026-02-06,2026-02-11,484,Refrigerated,Los Angeles
+B-1991,Tomato,Fresh,C,2026-02-09,2026-02-23,238,Ambient,Houston
+B-1992,Onion,Fresh,C,2026-02-06,2026-02-20,417,Ambient,Los Angeles
+B-1993,Meat,Chilled,A,2026-02-02,2026-02-07,200,Refrigerated,Phoenix
+B-1994,Milk,Chilled,A,2026-02-03,2026-02-10,363,Refrigerated,Houston
+B-1995,Onion,Fresh,A,2026-01-31,2026-02-14,411,Ambient,Chicago
+B-1996,Meat,Chilled,A,2026-02-06,2026-02-11,191,Refrigerated,Los Angeles
+B-1997,Fish,Chilled,A,2026-02-07,2026-02-12,249,Refrigerated,Chicago
+B-1998,Milk,Chilled,C,2026-02-02,2026-02-09,294,Refrigerated,Chicago
+B-1999,Fish,Chilled,A,2026-02-09,2026-02-14,491,Refrigerated,Chicago
+B-2000,Meat,Chilled,B,2026-02-04,2026-02-09,235,Refrigerated,Chicago
+B-2001,Onion,Fresh,A,2026-02-04,2026-02-18,236,Ambient,Los Angeles
+B-2002,Milk,Chilled,A,2026-02-04,2026-02-11,145,Refrigerated,Los Angeles
+B-2003,Meat,Chilled,B,2026-02-03,2026-02-08,147,Refrigerated,New York
+B-2004,Tomato,Fresh,C,2026-02-06,2026-02-20,301,Ambient,Phoenix
+B-2005,Onion,Fresh,C,2026-02-01,2026-02-15,414,Ambient,Houston
+B-2006,Onion,Fresh,C,2026-02-07,2026-02-21,341,Ambient,Los Angeles
+B-2007,Milk,Chilled,B,2026-02-09,2026-02-16,152,Refrigerated,Los Angeles
+B-2008,Tomato,Fresh,A,2026-02-06,2026-02-20,371,Ambient,New York
+B-2009,Meat,Chilled,B,2026-02-08,2026-02-13,199,Refrigerated,Los Angeles
+B-2010,Meat,Chilled,C,2026-02-06,2026-02-11,316,Refrigerated,Phoenix
+B-2011,Meat,Chilled,B,2026-02-02,2026-02-07,472,Refrigerated,Chicago
+B-2012,Meat,Chilled,A,2026-02-08,2026-02-13,213,Refrigerated,Houston
+B-2013,Tomato,Fresh,C,2026-02-05,2026-02-19,100,Ambient,New York
+B-2014,Fish,Chilled,A,2026-02-01,2026-02-06,355,Refrigerated,New York
+B-2015,Tomato,Fresh,C,2026-02-07,2026-02-21,195,Ambient,Houston
+B-2016,Fish,Chilled,A,2026-02-04,2026-02-09,58,Refrigerated,Houston
+B-2017,Meat,Chilled,A,2026-02-07,2026-02-12,216,Refrigerated,Chicago
+B-2018,Meat,Chilled,A,2026-02-03,2026-02-08,128,Refrigerated,Chicago
+B-2019,Meat,Chilled,C,2026-02-04,2026-02-09,387,Refrigerated,New York
+B-2020,Fish,Chilled,C,2026-01-31,2026-02-05,438,Refrigerated,Chicago
+B-2021,Onion,Fresh,C,2026-02-09,2026-02-23,56,Ambient,Houston
+B-2022,Tomato,Fresh,B,2026-02-01,2026-02-15,460,Ambient,New York
+B-2023,Milk,Chilled,C,2026-02-05,2026-02-12,173,Refrigerated,New York
+B-2024,Fish,Chilled,B,2026-02-06,2026-02-11,299,Refrigerated,New York
+B-2025,Tomato,Fresh,B,2026-01-31,2026-02-14,486,Ambient,Phoenix
+B-2026,Tomato,Fresh,B,2026-01-31,2026-02-14,194,Ambient,Los Angeles
+B-2027,Tomato,Fresh,A,2026-02-03,2026-02-17,306,Ambient,Chicago
+B-2028,Meat,Chilled,A,2026-02-06,2026-02-11,187,Refrigerated,Los Angeles
+B-2029,Meat,Chilled,A,2026-02-08,2026-02-13,271,Refrigerated,Chicago
+B-2030,Fish,Chilled,B,2026-02-07,2026-02-12,154,Refrigerated,New York
+B-2031,Onion,Fresh,B,2026-02-05,2026-02-19,210,Ambient,Chicago
+B-2032,Onion,Fresh,B,2026-02-07,2026-02-21,414,Ambient,Houston
+B-2033,Fish,Chilled,A,2026-02-04,2026-02-09,128,Refrigerated,Chicago
+B-2034,Tomato,Fresh,A,2026-02-03,2026-02-17,127,Ambient,Phoenix
+B-2035,Fish,Chilled,C,2026-02-08,2026-02-13,408,Refrigerated,New York
+B-2036,Tomato,Fresh,A,2026-02-04,2026-02-18,312,Ambient,Houston
+B-2037,Onion,Fresh,C,2026-02-04,2026-02-18,87,Ambient,Los Angeles
+B-2038,Onion,Fresh,C,2026-02-02,2026-02-16,156,Ambient,Houston
+B-2039,Tomato,Fresh,B,2026-02-04,2026-02-18,407,Ambient,Los Angeles
+B-2040,Tomato,Fresh,C,2026-02-04,2026-02-18,408,Ambient,Chicago
+B-2041,Tomato,Fresh,B,2026-02-04,2026-02-18,132,Ambient,Los Angeles
+B-2042,Milk,Chilled,B,2026-02-06,2026-02-13,406,Refrigerated,Houston
+B-2043,Meat,Chilled,A,2026-02-08,2026-02-13,252,Refrigerated,Chicago
+B-2044,Fish,Chilled,A,2026-02-03,2026-02-08,293,Refrigerated,Chicago
+B-2045,Meat,Chilled,A,2026-02-07,2026-02-12,134,Refrigerated,New York
+B-2046,Fish,Chilled,A,2026-02-08,2026-02-13,148,Refrigerated,Los Angeles
+B-2047,Milk,Chilled,B,2026-02-05,2026-02-12,276,Refrigerated,New York
+B-2048,Tomato,Fresh,A,2026-02-06,2026-02-20,182,Ambient,Los Angeles
+B-2049,Milk,Chilled,C,2026-02-03,2026-02-10,224,Refrigerated,Los Angeles
+B-2050,Onion,Fresh,A,2026-02-09,2026-02-23,497,Ambient,Chicago
+B-2051,Meat,Chilled,A,2026-02-09,2026-02-14,62,Refrigerated,Phoenix
+B-2052,Tomato,Fresh,B,2026-02-04,2026-02-18,287,Ambient,New York
+B-2053,Milk,Chilled,C,2026-02-02,2026-02-09,178,Refrigerated,Chicago
+B-2054,Onion,Fresh,C,2026-02-07,2026-02-21,419,Ambient,Phoenix
+B-2055,Meat,Chilled,C,2026-02-03,2026-02-08,167,Refrigerated,Los Angeles
+B-2056,Meat,Chilled,A,2026-02-04,2026-02-09,66,Refrigerated,Phoenix
+B-2057,Onion,Fresh,A,2026-02-05,2026-02-19,307,Ambient,Chicago
+B-2058,Meat,Chilled,B,2026-01-31,2026-02-05,251,Refrigerated,Chicago
+B-2059,Milk,Chilled,B,2026-02-09,2026-02-16,430,Refrigerated,Chicago
+B-2060,Milk,Chilled,C,2026-02-03,2026-02-10,497,Refrigerated,Los Angeles
+B-2061,Tomato,Fresh,B,2026-01-31,2026-02-14,185,Ambient,Phoenix
+B-2062,Fish,Chilled,A,2026-02-05,2026-02-10,265,Refrigerated,Los Angeles
+B-2063,Tomato,Fresh,C,2026-02-01,2026-02-15,60,Ambient,Chicago
+B-2064,Meat,Chilled,B,2026-02-09,2026-02-14,465,Refrigerated,New York
+B-2065,Onion,Fresh,B,2026-02-07,2026-02-21,378,Ambient,New York
+B-2066,Tomato,Fresh,A,2026-01-31,2026-02-14,287,Ambient,Chicago
+B-2067,Onion,Fresh,C,2026-01-31,2026-02-14,266,Ambient,Houston
+B-2068,Milk,Chilled,A,2026-02-04,2026-02-11,415,Refrigerated,Chicago
+B-2069,Milk,Chilled,A,2026-02-08,2026-02-15,340,Refrigerated,Phoenix
+B-2070,Meat,Chilled,A,2026-02-09,2026-02-14,477,Refrigerated,Houston
+B-2071,Milk,Chilled,C,2026-02-02,2026-02-09,254,Refrigerated,Houston
+B-2072,Onion,Fresh,A,2026-02-08,2026-02-22,86,Ambient,Houston
+B-2073,Onion,Fresh,B,2026-02-03,2026-02-17,219,Ambient,Houston
+B-2074,Meat,Chilled,B,2026-02-01,2026-02-06,313,Refrigerated,Houston
+B-2075,Tomato,Fresh,B,2026-02-02,2026-02-16,319,Ambient,Houston
+B-2076,Milk,Chilled,C,2026-02-01,2026-02-08,102,Refrigerated,Phoenix
+B-2077,Tomato,Fresh,A,2026-02-04,2026-02-18,118,Ambient,Chicago
+B-2078,Onion,Fresh,A,2026-02-08,2026-02-22,240,Ambient,Chicago
+B-2079,Fish,Chilled,B,2026-02-04,2026-02-09,437,Refrigerated,Houston
+B-2080,Tomato,Fresh,B,2026-02-04,2026-02-18,321,Ambient,Chicago
+B-2081,Milk,Chilled,C,2026-02-03,2026-02-10,429,Refrigerated,Los Angeles
+B-2082,Tomato,Fresh,C,2026-01-31,2026-02-14,144,Ambient,Chicago
+B-2083,Milk,Chilled,C,2026-01-31,2026-02-07,312,Refrigerated,Chicago
+B-2084,Tomato,Fresh,C,2026-01-31,2026-02-14,444,Ambient,Chicago
+B-2085,Milk,Chilled,B,2026-02-07,2026-02-14,170,Refrigerated,Chicago
+B-2086,Milk,Chilled,B,2026-02-08,2026-02-15,222,Refrigerated,Chicago
+B-2087,Fish,Chilled,B,2026-02-09,2026-02-14,237,Refrigerated,New York
+B-2088,Tomato,Fresh,A,2026-02-07,2026-02-21,369,Ambient,New York
+B-2089,Milk,Chilled,B,2026-01-31,2026-02-07,100,Refrigerated,Chicago
+B-2090,Onion,Fresh,A,2026-02-03,2026-02-17,194,Ambient,Los Angeles
+B-2091,Tomato,Fresh,A,2026-02-09,2026-02-23,156,Ambient,Houston
+B-2092,Onion,Fresh,A,2026-02-03,2026-02-17,477,Ambient,Chicago
+B-2093,Meat,Chilled,B,2026-02-05,2026-02-10,356,Refrigerated,Phoenix
+B-2094,Meat,Chilled,C,2026-02-04,2026-02-09,460,Refrigerated,Chicago
+B-2095,Tomato,Fresh,C,2026-02-03,2026-02-17,100,Ambient,Los Angeles
+B-2096,Milk,Chilled,B,2026-02-02,2026-02-09,277,Refrigerated,Los Angeles
+B-2097,Tomato,Fresh,C,2026-02-03,2026-02-17,433,Ambient,Chicago
+B-2098,Onion,Fresh,C,2026-01-31,2026-02-14,498,Ambient,Houston
+B-2099,Tomato,Fresh,A,2026-02-01,2026-02-15,291,Ambient,New York
+B-2100,Tomato,Fresh,C,2026-02-07,2026-02-21,409,Ambient,New York
+B-2101,Meat,Chilled,C,2026-02-02,2026-02-07,405,Refrigerated,Chicago
+B-2102,Meat,Chilled,C,2026-02-02,2026-02-07,367,Refrigerated,Chicago
+B-2103,Milk,Chilled,B,2026-02-05,2026-02-12,106,Refrigerated,New York
+B-2104,Tomato,Fresh,B,2026-02-03,2026-02-17,115,Ambient,Houston
+B-2105,Fish,Chilled,B,2026-02-03,2026-02-08,155,Refrigerated,Houston
+B-2106,Meat,Chilled,C,2026-02-03,2026-02-08,500,Refrigerated,Houston
+B-2107,Tomato,Fresh,A,2026-02-08,2026-02-22,452,Ambient,Los Angeles
+B-2108,Meat,Chilled,C,2026-02-05,2026-02-10,69,Refrigerated,Los Angeles
+B-2109,Milk,Chilled,A,2026-01-31,2026-02-07,361,Refrigerated,Houston
+B-2110,Onion,Fresh,A,2026-02-05,2026-02-19,189,Ambient,Houston
+B-2111,Fish,Chilled,B,2026-02-05,2026-02-10,317,Refrigerated,New York
+B-2112,Tomato,Fresh,A,2026-02-06,2026-02-20,162,Ambient,New York
+B-2113,Onion,Fresh,B,2026-02-05,2026-02-19,279,Ambient,Phoenix
+B-2114,Meat,Chilled,A,2026-02-06,2026-02-11,224,Refrigerated,Phoenix
+B-2115,Onion,Fresh,B,2026-02-07,2026-02-21,440,Ambient,New York
+B-2116,Meat,Chilled,C,2026-01-31,2026-02-05,277,Refrigerated,Chicago
+B-2117,Meat,Chilled,C,2026-02-03,2026-02-08,51,Refrigerated,Houston
+B-2118,Tomato,Fresh,A,2026-02-06,2026-02-20,236,Ambient,New York
+B-2119,Meat,Chilled,B,2026-02-08,2026-02-13,227,Refrigerated,Phoenix
+B-2120,Milk,Chilled,A,2026-01-31,2026-02-07,138,Refrigerated,Los Angeles
+B-2121,Tomato,Fresh,C,2026-02-05,2026-02-19,298,Ambient,Chicago
+B-2122,Milk,Chilled,C,2026-02-02,2026-02-09,64,Refrigerated,Los Angeles
+B-2123,Fish,Chilled,C,2026-02-08,2026-02-13,79,Refrigerated,Chicago
+B-2124,Milk,Chilled,A,2026-02-08,2026-02-15,271,Refrigerated,Los Angeles
+B-2125,Tomato,Fresh,B,2026-02-09,2026-02-23,153,Ambient,Chicago
+B-2126,Milk,Chilled,A,2026-02-06,2026-02-13,225,Refrigerated,Phoenix
+B-2127,Milk,Chilled,C,2026-02-06,2026-02-13,492,Refrigerated,Houston
+B-2128,Tomato,Fresh,B,2026-02-08,2026-02-22,190,Ambient,New York
+B-2129,Onion,Fresh,C,2026-02-02,2026-02-16,489,Ambient,New York
+B-2130,Tomato,Fresh,C,2026-02-05,2026-02-19,223,Ambient,New York
+B-2131,Onion,Fresh,A,2026-02-08,2026-02-22,219,Ambient,New York
+B-2132,Meat,Chilled,B,2026-02-07,2026-02-12,388,Refrigerated,Chicago
+B-2133,Meat,Chilled,A,2026-02-02,2026-02-07,306,Refrigerated,Houston
+B-2134,Fish,Chilled,B,2026-02-02,2026-02-07,468,Refrigerated,Phoenix
+B-2135,Meat,Chilled,C,2026-02-07,2026-02-12,258,Refrigerated,Houston
+B-2136,Meat,Chilled,C,2026-02-04,2026-02-09,100,Refrigerated,Los Angeles
+B-2137,Meat,Chilled,C,2026-02-04,2026-02-09,405,Refrigerated,Phoenix
+B-2138,Milk,Chilled,A,2026-02-07,2026-02-14,349,Refrigerated,Chicago
+B-2139,Tomato,Fresh,A,2026-02-08,2026-02-22,140,Ambient,Phoenix
+B-2140,Milk,Chilled,B,2026-02-08,2026-02-15,400,Refrigerated,Phoenix
+B-2141,Milk,Chilled,C,2026-02-03,2026-02-10,315,Refrigerated,Houston
+B-2142,Tomato,Fresh,C,2026-02-09,2026-02-23,425,Ambient,Los Angeles
+B-2143,Milk,Chilled,A,2026-02-03,2026-02-10,258,Refrigerated,Chicago
+B-2144,Tomato,Fresh,B,2026-02-08,2026-02-22,173,Ambient,Houston
+B-2145,Milk,Chilled,A,2026-02-09,2026-02-16,230,Refrigerated,New York
+B-2146,Fish,Chilled,A,2026-02-09,2026-02-14,217,Refrigerated,Phoenix
+B-2147,Onion,Fresh,A,2026-01-31,2026-02-14,322,Ambient,Phoenix
+B-2148,Meat,Chilled,B,2026-02-08,2026-02-13,464,Refrigerated,Phoenix
+B-2149,Milk,Chilled,B,2026-02-04,2026-02-11,358,Refrigerated,Chicago
+B-2150,Onion,Fresh,A,2026-02-08,2026-02-22,178,Ambient,Chicago
+B-2151,Onion,Fresh,A,2026-02-07,2026-02-21,89,Ambient,New York
+B-2152,Fish,Chilled,C,2026-02-07,2026-02-12,228,Refrigerated,Chicago
+B-2153,Fish,Chilled,C,2026-02-02,2026-02-07,310,Refrigerated,Los Angeles
+B-2154,Onion,Fresh,A,2026-02-09,2026-02-23,213,Ambient,Los Angeles
+B-2155,Onion,Fresh,C,2026-02-03,2026-02-17,490,Ambient,New York
+B-2156,Meat,Chilled,A,2026-02-05,2026-02-10,495,Refrigerated,Los Angeles
+B-2157,Fish,Chilled,B,2026-02-08,2026-02-13,246,Refrigerated,New York
+B-2158,Fish,Chilled,C,2026-02-04,2026-02-09,154,Refrigerated,Chicago
+B-2159,Meat,Chilled,B,2026-02-08,2026-02-13,442,Refrigerated,Phoenix
+B-2160,Fish,Chilled,A,2026-02-01,2026-02-06,466,Refrigerated,Phoenix
+B-2161,Onion,Fresh,A,2026-02-09,2026-02-23,401,Ambient,Houston
+B-2162,Tomato,Fresh,C,2026-02-05,2026-02-19,166,Ambient,Houston
+B-2163,Milk,Chilled,B,2026-02-03,2026-02-10,199,Refrigerated,Phoenix
+B-2164,Tomato,Fresh,A,2026-02-05,2026-02-19,438,Ambient,Chicago
+B-2165,Meat,Chilled,A,2026-02-09,2026-02-14,333,Refrigerated,New York
+B-2166,Meat,Chilled,C,2026-02-09,2026-02-14,410,Refrigerated,New York
+B-2167,Tomato,Fresh,A,2026-02-09,2026-02-23,264,Ambient,Chicago
+B-2168,Fish,Chilled,B,2026-02-07,2026-02-12,477,Refrigerated,Los Angeles
+B-2169,Onion,Fresh,A,2026-02-03,2026-02-17,495,Ambient,Los Angeles
+B-2170,Meat,Chilled,A,2026-02-06,2026-02-11,335,Refrigerated,Los Angeles
+B-2171,Meat,Chilled,B,2026-01-31,2026-02-05,357,Refrigerated,Houston
+B-2172,Meat,Chilled,C,2026-02-05,2026-02-10,146,Refrigerated,Houston
+B-2173,Tomato,Fresh,C,2026-02-03,2026-02-17,103,Ambient,New York
+B-2174,Onion,Fresh,B,2026-02-03,2026-02-17,65,Ambient,Phoenix
+B-2175,Milk,Chilled,A,2026-02-05,2026-02-12,131,Refrigerated,Chicago
+B-2176,Fish,Chilled,B,2026-01-31,2026-02-05,352,Refrigerated,Houston
+B-2177,Milk,Chilled,A,2026-02-06,2026-02-13,220,Refrigerated,New York
+B-2178,Meat,Chilled,C,2026-02-04,2026-02-09,103,Refrigerated,New York
+B-2179,Meat,Chilled,B,2026-02-07,2026-02-12,411,Refrigerated,New York
+B-2180,Milk,Chilled,C,2026-02-01,2026-02-08,272,Refrigerated,Chicago
+B-2181,Tomato,Fresh,A,2026-02-02,2026-02-16,485,Ambient,Chicago
+B-2182,Onion,Fresh,A,2026-02-03,2026-02-17,144,Ambient,Houston
+B-2183,Milk,Chilled,A,2026-02-04,2026-02-11,162,Refrigerated,Los Angeles
+B-2184,Meat,Chilled,C,2026-02-02,2026-02-07,80,Refrigerated,Houston
+B-2185,Milk,Chilled,B,2026-01-31,2026-02-07,57,Refrigerated,Chicago
+B-2186,Milk,Chilled,B,2026-02-02,2026-02-09,358,Refrigerated,New York
+B-2187,Fish,Chilled,A,2026-02-08,2026-02-13,208,Refrigerated,Houston
+B-2188,Onion,Fresh,B,2026-02-04,2026-02-18,222,Ambient,Los Angeles
+B-2189,Onion,Fresh,A,2026-02-02,2026-02-16,276,Ambient,Houston
+B-2190,Tomato,Fresh,C,2026-02-02,2026-02-16,54,Ambient,Chicago
+B-2191,Onion,Fresh,C,2026-02-06,2026-02-20,361,Ambient,New York
+B-2192,Fish,Chilled,C,2026-02-06,2026-02-11,216,Refrigerated,Chicago
+B-2193,Onion,Fresh,C,2026-02-09,2026-02-23,90,Ambient,Houston
+B-2194,Tomato,Fresh,A,2026-01-31,2026-02-14,64,Ambient,Los Angeles
+B-2195,Meat,Chilled,A,2026-02-07,2026-02-12,411,Refrigerated,New York
+B-2196,Onion,Fresh,A,2026-02-04,2026-02-18,166,Ambient,Houston
+B-2197,Fish,Chilled,B,2026-02-02,2026-02-07,71,Refrigerated,Phoenix
+B-2198,Tomato,Fresh,B,2026-02-06,2026-02-20,129,Ambient,Los Angeles
+B-2199,Milk,Chilled,C,2026-02-02,2026-02-09,478,Refrigerated,Los Angeles
+B-2200,Onion,Fresh,C,2026-02-05,2026-02-19,387,Ambient,Chicago
+B-2201,Tomato,Fresh,B,2026-02-08,2026-02-22,185,Ambient,Houston
+B-2202,Tomato,Fresh,C,2026-02-08,2026-02-22,345,Ambient,Houston
+B-2203,Tomato,Fresh,C,2026-02-03,2026-02-17,154,Ambient,Chicago
+B-2204,Milk,Chilled,A,2026-02-01,2026-02-08,463,Refrigerated,Houston
+B-2205,Milk,Chilled,C,2026-02-05,2026-02-12,429,Refrigerated,Phoenix
+B-2206,Fish,Chilled,C,2026-02-05,2026-02-10,159,Refrigerated,Houston
+B-2207,Meat,Chilled,A,2026-02-08,2026-02-13,432,Refrigerated,Phoenix
+B-2208,Milk,Chilled,B,2026-02-02,2026-02-09,437,Refrigerated,Houston
+B-2209,Milk,Chilled,B,2026-02-05,2026-02-12,257,Refrigerated,Phoenix
+B-2210,Tomato,Fresh,B,2026-02-07,2026-02-21,418,Ambient,Houston
+B-2211,Tomato,Fresh,B,2026-02-02,2026-02-16,89,Ambient,New York
+B-2212,Onion,Fresh,A,2026-02-03,2026-02-17,360,Ambient,New York
+B-2213,Onion,Fresh,A,2026-02-03,2026-02-17,453,Ambient,Phoenix
+B-2214,Fish,Chilled,A,2026-01-31,2026-02-05,348,Refrigerated,Phoenix
+B-2215,Meat,Chilled,B,2026-02-02,2026-02-07,310,Refrigerated,Los Angeles
+B-2216,Milk,Chilled,B,2026-02-09,2026-02-16,348,Refrigerated,Los Angeles
+B-2217,Meat,Chilled,C,2026-02-04,2026-02-09,421,Refrigerated,Phoenix
+B-2218,Milk,Chilled,A,2026-01-31,2026-02-07,405,Refrigerated,New York
+B-2219,Milk,Chilled,C,2026-02-03,2026-02-10,76,Refrigerated,New York
+B-2220,Onion,Fresh,C,2026-02-09,2026-02-23,375,Ambient,Houston
+B-2221,Fish,Chilled,B,2026-02-07,2026-02-12,489,Refrigerated,New York
+B-2222,Meat,Chilled,C,2026-02-09,2026-02-14,280,Refrigerated,Houston
+B-2223,Milk,Chilled,C,2026-02-04,2026-02-11,55,Refrigerated,Houston
+B-2224,Onion,Fresh,A,2026-02-02,2026-02-16,104,Ambient,New York
+B-2225,Milk,Chilled,C,2026-02-05,2026-02-12,479,Refrigerated,New York
+B-2226,Meat,Chilled,C,2026-02-03,2026-02-08,172,Refrigerated,Phoenix
+B-2227,Fish,Chilled,B,2026-02-05,2026-02-10,445,Refrigerated,Los Angeles
+B-2228,Tomato,Fresh,A,2026-02-06,2026-02-20,193,Ambient,New York
+B-2229,Milk,Chilled,C,2026-02-08,2026-02-15,329,Refrigerated,Los Angeles
+B-2230,Onion,Fresh,A,2026-02-01,2026-02-15,115,Ambient,Chicago
+B-2231,Meat,Chilled,C,2026-02-06,2026-02-11,92,Refrigerated,Chicago
+B-2232,Fish,Chilled,A,2026-02-04,2026-02-09,244,Refrigerated,New York
+B-2233,Tomato,Fresh,B,2026-02-09,2026-02-23,89,Ambient,Los Angeles
+B-2234,Fish,Chilled,A,2026-02-09,2026-02-14,113,Refrigerated,Phoenix
+B-2235,Fish,Chilled,B,2026-02-03,2026-02-08,352,Refrigerated,Chicago
+B-2236,Milk,Chilled,C,2026-02-09,2026-02-16,493,Refrigerated,Houston
+B-2237,Meat,Chilled,A,2026-02-03,2026-02-08,484,Refrigerated,New York
+B-2238,Milk,Chilled,C,2026-02-09,2026-02-16,488,Refrigerated,Chicago
+B-2239,Onion,Fresh,A,2026-02-09,2026-02-23,66,Ambient,Phoenix
+B-2240,Onion,Fresh,B,2026-02-08,2026-02-22,173,Ambient,New York
+B-2241,Fish,Chilled,A,2026-02-07,2026-02-12,235,Refrigerated,Houston
+B-2242,Tomato,Fresh,A,2026-02-07,2026-02-21,355,Ambient,Phoenix
+B-2243,Meat,Chilled,A,2026-02-01,2026-02-06,94,Refrigerated,Phoenix
+B-2244,Meat,Chilled,B,2026-02-03,2026-02-08,291,Refrigerated,New York
+B-2245,Milk,Chilled,A,2026-02-06,2026-02-13,246,Refrigerated,Houston
+B-2246,Fish,Chilled,B,2026-01-31,2026-02-05,81,Refrigerated,New York
+B-2247,Meat,Chilled,B,2026-02-04,2026-02-09,397,Refrigerated,Houston
+B-2248,Milk,Chilled,A,2026-02-06,2026-02-13,77,Refrigerated,Houston
+B-2249,Tomato,Fresh,C,2026-02-03,2026-02-17,407,Ambient,Phoenix
+B-2250,Meat,Chilled,C,2026-02-04,2026-02-09,206,Refrigerated,Chicago
+B-2251,Onion,Fresh,C,2026-02-05,2026-02-19,106,Ambient,Chicago
+B-2252,Fish,Chilled,C,2026-02-03,2026-02-08,198,Refrigerated,Houston
+B-2253,Onion,Fresh,C,2026-02-05,2026-02-19,237,Ambient,Chicago
+B-2254,Tomato,Fresh,B,2026-02-03,2026-02-17,301,Ambient,Chicago
+B-2255,Milk,Chilled,A,2026-02-01,2026-02-08,205,Refrigerated,Phoenix
+B-2256,Fish,Chilled,B,2026-02-05,2026-02-10,188,Refrigerated,Phoenix
+B-2257,Tomato,Fresh,C,2026-02-05,2026-02-19,496,Ambient,Los Angeles
+B-2258,Milk,Chilled,A,2026-02-06,2026-02-13,285,Refrigerated,New York
+B-2259,Fish,Chilled,B,2026-02-06,2026-02-11,104,Refrigerated,Houston
+B-2260,Tomato,Fresh,A,2026-02-04,2026-02-18,294,Ambient,Phoenix
+B-2261,Onion,Fresh,C,2026-02-05,2026-02-19,202,Ambient,Houston
+B-2262,Onion,Fresh,A,2026-02-07,2026-02-21,254,Ambient,Los Angeles
+B-2263,Tomato,Fresh,A,2026-02-04,2026-02-18,207,Ambient,New York
+B-2264,Tomato,Fresh,C,2026-02-06,2026-02-20,388,Ambient,Chicago
+B-2265,Onion,Fresh,B,2026-02-09,2026-02-23,236,Ambient,Los Angeles
+B-2266,Fish,Chilled,A,2026-02-07,2026-02-12,52,Refrigerated,Chicago
+B-2267,Meat,Chilled,B,2026-02-03,2026-02-08,184,Refrigerated,Chicago
+B-2268,Meat,Chilled,A,2026-01-31,2026-02-05,498,Refrigerated,Phoenix
+B-2269,Milk,Chilled,C,2026-02-05,2026-02-12,465,Refrigerated,New York
+B-2270,Meat,Chilled,B,2026-02-04,2026-02-09,396,Refrigerated,Phoenix
+B-2271,Tomato,Fresh,B,2026-01-31,2026-02-14,144,Ambient,New York
+B-2272,Milk,Chilled,A,2026-02-05,2026-02-12,170,Refrigerated,Los Angeles
+B-2273,Tomato,Fresh,C,2026-02-09,2026-02-23,362,Ambient,Los Angeles
+B-2274,Fish,Chilled,B,2026-02-06,2026-02-11,353,Refrigerated,Los Angeles
+B-2275,Onion,Fresh,C,2026-02-05,2026-02-19,50,Ambient,Houston
+B-2276,Meat,Chilled,C,2026-02-04,2026-02-09,254,Refrigerated,Houston
+B-2277,Onion,Fresh,B,2026-02-09,2026-02-23,387,Ambient,Houston
+B-2278,Onion,Fresh,B,2026-02-08,2026-02-22,95,Ambient,Houston
+B-2279,Tomato,Fresh,C,2026-02-07,2026-02-21,394,Ambient,Phoenix
+B-2280,Tomato,Fresh,A,2026-02-04,2026-02-18,409,Ambient,Phoenix
+B-2281,Milk,Chilled,B,2026-02-06,2026-02-13,432,Refrigerated,Houston
+B-2282,Milk,Chilled,C,2026-02-03,2026-02-10,245,Refrigerated,Phoenix
+B-2283,Tomato,Fresh,B,2026-02-09,2026-02-23,217,Ambient,Los Angeles
+B-2284,Meat,Chilled,A,2026-02-01,2026-02-06,161,Refrigerated,Los Angeles
+B-2285,Tomato,Fresh,C,2026-02-04,2026-02-18,268,Ambient,Chicago
+B-2286,Meat,Chilled,B,2026-02-03,2026-02-08,417,Refrigerated,Houston
+B-2287,Onion,Fresh,A,2026-02-04,2026-02-18,422,Ambient,Houston
+B-2288,Onion,Fresh,C,2026-02-02,2026-02-16,182,Ambient,New York
+B-2289,Meat,Chilled,B,2026-02-02,2026-02-07,185,Refrigerated,Phoenix
+B-2290,Onion,Fresh,A,2026-02-04,2026-02-18,392,Ambient,Phoenix
+B-2291,Meat,Chilled,C,2026-02-08,2026-02-13,351,Refrigerated,Phoenix
+B-2292,Milk,Chilled,C,2026-02-04,2026-02-11,471,Refrigerated,New York
+B-2293,Tomato,Fresh,C,2026-02-03,2026-02-17,367,Ambient,Houston
+B-2294,Onion,Fresh,A,2026-02-02,2026-02-16,303,Ambient,Los Angeles
+B-2295,Tomato,Fresh,B,2026-02-02,2026-02-16,179,Ambient,Houston
+B-2296,Milk,Chilled,A,2026-02-05,2026-02-12,106,Refrigerated,Los Angeles
+B-2297,Meat,Chilled,A,2026-01-31,2026-02-05,278,Refrigerated,Phoenix
+B-2298,Meat,Chilled,A,2026-02-08,2026-02-13,149,Refrigerated,New York
+B-2299,Fish,Chilled,C,2026-02-03,2026-02-08,476,Refrigerated,Chicago
+B-2300,Meat,Chilled,A,2026-02-02,2026-02-07,143,Refrigerated,Chicago
+B-2301,Onion,Fresh,A,2026-02-08,2026-02-22,191,Ambient,New York
+B-2302,Meat,Chilled,A,2026-02-03,2026-02-08,306,Refrigerated,Houston
+B-2303,Onion,Fresh,C,2026-02-09,2026-02-23,284,Ambient,New York
+B-2304,Onion,Fresh,C,2026-02-01,2026-02-15,478,Ambient,Chicago
+B-2305,Onion,Fresh,B,2026-02-09,2026-02-23,112,Ambient,Chicago
+B-2306,Onion,Fresh,B,2026-02-04,2026-02-18,487,Ambient,New York
+B-2307,Tomato,Fresh,C,2026-02-08,2026-02-22,134,Ambient,Chicago
+B-2308,Fish,Chilled,A,2026-02-04,2026-02-09,233,Refrigerated,Houston
+B-2309,Fish,Chilled,B,2026-02-02,2026-02-07,125,Refrigerated,Houston
+B-2310,Meat,Chilled,C,2026-02-04,2026-02-09,348,Refrigerated,Houston
+B-2311,Onion,Fresh,C,2026-02-04,2026-02-18,294,Ambient,Los Angeles
+B-2312,Meat,Chilled,A,2026-02-01,2026-02-06,105,Refrigerated,Chicago
+B-2313,Tomato,Fresh,C,2026-02-02,2026-02-16,245,Ambient,Los Angeles
+B-2314,Meat,Chilled,A,2026-02-04,2026-02-09,412,Refrigerated,Los Angeles
+B-2315,Fish,Chilled,A,2026-02-01,2026-02-06,75,Refrigerated,Houston
+B-2316,Fish,Chilled,C,2026-02-01,2026-02-06,183,Refrigerated,Houston
+B-2317,Fish,Chilled,A,2026-02-04,2026-02-09,196,Refrigerated,Chicago
+B-2318,Tomato,Fresh,B,2026-02-06,2026-02-20,75,Ambient,Chicago
+B-2319,Milk,Chilled,C,2026-02-05,2026-02-12,251,Refrigerated,Houston
+B-2320,Fish,Chilled,B,2026-02-09,2026-02-14,181,Refrigerated,Phoenix
+B-2321,Meat,Chilled,B,2026-02-07,2026-02-12,373,Refrigerated,Los Angeles
+B-2322,Milk,Chilled,B,2026-02-09,2026-02-16,382,Refrigerated,Chicago
+B-2323,Fish,Chilled,A,2026-02-08,2026-02-13,107,Refrigerated,New York
+B-2324,Milk,Chilled,C,2026-02-03,2026-02-10,100,Refrigerated,Chicago
+B-2325,Onion,Fresh,C,2026-02-04,2026-02-18,167,Ambient,Houston
+B-2326,Meat,Chilled,B,2026-02-02,2026-02-07,434,Refrigerated,Phoenix
+B-2327,Fish,Chilled,B,2026-02-09,2026-02-14,143,Refrigerated,New York
+B-2328,Meat,Chilled,B,2026-02-07,2026-02-12,52,Refrigerated,Houston
+B-2329,Meat,Chilled,B,2026-02-07,2026-02-12,157,Refrigerated,Phoenix
+B-2330,Fish,Chilled,C,2026-02-02,2026-02-07,444,Refrigerated,Chicago
+B-2331,Meat,Chilled,A,2026-02-06,2026-02-11,178,Refrigerated,Phoenix
+B-2332,Meat,Chilled,A,2026-02-05,2026-02-10,381,Refrigerated,Phoenix
+B-2333,Tomato,Fresh,B,2026-02-03,2026-02-17,336,Ambient,Phoenix
+B-2334,Tomato,Fresh,A,2026-02-09,2026-02-23,95,Ambient,Houston
+B-2335,Milk,Chilled,C,2026-02-07,2026-02-14,96,Refrigerated,Los Angeles
+B-2336,Fish,Chilled,B,2026-02-08,2026-02-13,240,Refrigerated,New York
+B-2337,Fish,Chilled,C,2026-02-05,2026-02-10,170,Refrigerated,Houston
+B-2338,Onion,Fresh,B,2026-02-01,2026-02-15,495,Ambient,Phoenix
+B-2339,Onion,Fresh,C,2026-02-01,2026-02-15,247,Ambient,Chicago
+B-2340,Meat,Chilled,A,2026-02-07,2026-02-12,203,Refrigerated,Phoenix
+B-2341,Onion,Fresh,C,2026-02-06,2026-02-20,453,Ambient,Los Angeles
+B-2342,Fish,Chilled,B,2026-02-03,2026-02-08,478,Refrigerated,Houston
+B-2343,Onion,Fresh,B,2026-02-09,2026-02-23,390,Ambient,Los Angeles
+B-2344,Meat,Chilled,B,2026-02-07,2026-02-12,251,Refrigerated,Phoenix
+B-2345,Onion,Fresh,B,2026-02-03,2026-02-17,287,Ambient,New York
+B-2346,Fish,Chilled,C,2026-02-09,2026-02-14,197,Refrigerated,Chicago
+B-2347,Milk,Chilled,C,2026-02-06,2026-02-13,214,Refrigerated,Chicago
+B-2348,Fish,Chilled,B,2026-01-31,2026-02-05,463,Refrigerated,New York
+B-2349,Meat,Chilled,C,2026-02-02,2026-02-07,381,Refrigerated,Los Angeles
+B-2350,Milk,Chilled,B,2026-02-05,2026-02-12,174,Refrigerated,New York
+B-2351,Onion,Fresh,B,2026-02-03,2026-02-17,336,Ambient,Chicago
+B-2352,Meat,Chilled,C,2026-02-07,2026-02-12,163,Refrigerated,Phoenix
+B-2353,Fish,Chilled,B,2026-02-04,2026-02-09,268,Refrigerated,Phoenix
+B-2354,Onion,Fresh,B,2026-02-08,2026-02-22,473,Ambient,Houston
+B-2355,Tomato,Fresh,B,2026-02-03,2026-02-17,346,Ambient,Chicago
+B-2356,Milk,Chilled,C,2026-02-09,2026-02-16,498,Refrigerated,Phoenix
+B-2357,Onion,Fresh,B,2026-02-04,2026-02-18,65,Ambient,New York
+B-2358,Meat,Chilled,A,2026-02-06,2026-02-11,98,Refrigerated,Los Angeles
+B-2359,Fish,Chilled,B,2026-02-08,2026-02-13,305,Refrigerated,New York
+B-2360,Onion,Fresh,B,2026-02-02,2026-02-16,137,Ambient,New York
+B-2361,Onion,Fresh,B,2026-02-07,2026-02-21,234,Ambient,Houston
+B-2362,Fish,Chilled,B,2026-02-02,2026-02-07,424,Refrigerated,Phoenix
+B-2363,Onion,Fresh,C,2026-02-06,2026-02-20,301,Ambient,Phoenix
+B-2364,Meat,Chilled,C,2026-02-03,2026-02-08,74,Refrigerated,Phoenix
+B-2365,Meat,Chilled,B,2026-02-09,2026-02-14,145,Refrigerated,Los Angeles
+B-2366,Tomato,Fresh,A,2026-02-08,2026-02-22,120,Ambient,New York
+B-2367,Onion,Fresh,C,2026-02-04,2026-02-18,277,Ambient,Chicago
+B-2368,Meat,Chilled,A,2026-02-06,2026-02-11,214,Refrigerated,Houston
+B-2369,Milk,Chilled,C,2026-02-09,2026-02-16,89,Refrigerated,New York
+B-2370,Milk,Chilled,A,2026-02-09,2026-02-16,347,Refrigerated,Phoenix
+B-2371,Tomato,Fresh,B,2026-02-04,2026-02-18,460,Ambient,Houston
+B-2372,Fish,Chilled,B,2026-02-02,2026-02-07,322,Refrigerated,Los Angeles
+B-2373,Tomato,Fresh,B,2026-02-07,2026-02-21,107,Ambient,Chicago
+B-2374,Fish,Chilled,A,2026-02-08,2026-02-13,394,Refrigerated,Chicago
+B-2375,Fish,Chilled,A,2026-02-01,2026-02-06,488,Refrigerated,Los Angeles
+B-2376,Tomato,Fresh,B,2026-02-09,2026-02-23,116,Ambient,Chicago
+B-2377,Fish,Chilled,C,2026-02-08,2026-02-13,207,Refrigerated,Houston
+B-2378,Fish,Chilled,C,2026-01-31,2026-02-05,248,Refrigerated,Houston
+B-2379,Meat,Chilled,A,2026-02-06,2026-02-11,86,Refrigerated,Chicago
+B-2380,Tomato,Fresh,B,2026-02-09,2026-02-23,199,Ambient,Los Angeles
+B-2381,Onion,Fresh,C,2026-02-08,2026-02-22,79,Ambient,Los Angeles
+B-2382,Meat,Chilled,A,2026-02-05,2026-02-10,470,Refrigerated,Chicago
+B-2383,Onion,Fresh,C,2026-02-06,2026-02-20,106,Ambient,New York
+B-2384,Fish,Chilled,B,2026-02-08,2026-02-13,419,Refrigerated,Phoenix
+B-2385,Fish,Chilled,C,2026-02-03,2026-02-08,130,Refrigerated,Chicago
+B-2386,Onion,Fresh,B,2026-02-06,2026-02-20,300,Ambient,Houston
+B-2387,Milk,Chilled,B,2026-02-08,2026-02-15,137,Refrigerated,Chicago
+B-2388,Fish,Chilled,A,2026-02-08,2026-02-13,173,Refrigerated,Chicago
+B-2389,Tomato,Fresh,A,2026-02-05,2026-02-19,336,Ambient,New York
+B-2390,Onion,Fresh,B,2026-02-07,2026-02-21,419,Ambient,Phoenix
+B-2391,Onion,Fresh,B,2026-02-02,2026-02-16,106,Ambient,Chicago
+B-2392,Tomato,Fresh,C,2026-02-02,2026-02-16,70,Ambient,Houston
+B-2393,Onion,Fresh,A,2026-02-08,2026-02-22,277,Ambient,Chicago
+B-2394,Meat,Chilled,B,2026-02-01,2026-02-06,453,Refrigerated,New York
+B-2395,Fish,Chilled,C,2026-02-07,2026-02-12,435,Refrigerated,Chicago
+B-2396,Onion,Fresh,A,2026-02-09,2026-02-23,402,Ambient,Chicago
+B-2397,Fish,Chilled,B,2026-02-09,2026-02-14,201,Refrigerated,Los Angeles
+B-2398,Meat,Chilled,B,2026-02-08,2026-02-13,330,Refrigerated,Houston
+B-2399,Tomato,Fresh,C,2026-02-08,2026-02-22,225,Ambient,Los Angeles
+B-2400,Onion,Fresh,A,2026-02-02,2026-02-16,114,Ambient,Chicago
+B-2401,Fish,Chilled,A,2026-02-03,2026-02-08,128,Refrigerated,Los Angeles
+B-2402,Tomato,Fresh,A,2026-02-04,2026-02-18,102,Ambient,New York
+B-2403,Onion,Fresh,B,2026-02-06,2026-02-20,268,Ambient,Chicago
+B-2404,Tomato,Fresh,C,2026-02-09,2026-02-23,492,Ambient,Phoenix
+B-2405,Onion,Fresh,C,2026-02-02,2026-02-16,152,Ambient,Chicago
+B-2406,Tomato,Fresh,C,2026-02-02,2026-02-16,387,Ambient,New York
+B-2407,Milk,Chilled,B,2026-02-01,2026-02-08,190,Refrigerated,Houston
+B-2408,Milk,Chilled,A,2026-02-07,2026-02-14,481,Refrigerated,Los Angeles
+B-2409,Meat,Chilled,B,2026-02-02,2026-02-07,295,Refrigerated,Chicago
+B-2410,Onion,Fresh,B,2026-02-06,2026-02-20,450,Ambient,Chicago
+B-2411,Fish,Chilled,C,2026-02-02,2026-02-07,441,Refrigerated,Los Angeles
+B-2412,Onion,Fresh,A,2026-02-07,2026-02-21,173,Ambient,Houston
+B-2413,Onion,Fresh,B,2026-02-08,2026-02-22,75,Ambient,Phoenix
+B-2414,Onion,Fresh,A,2026-02-01,2026-02-15,183,Ambient,Chicago
+B-2415,Tomato,Fresh,B,2026-02-04,2026-02-18,337,Ambient,Chicago
+B-2416,Meat,Chilled,A,2026-02-07,2026-02-12,428,Refrigerated,Phoenix
+B-2417,Milk,Chilled,C,2026-01-31,2026-02-07,412,Refrigerated,New York
+B-2418,Meat,Chilled,C,2026-02-04,2026-02-09,455,Refrigerated,Los Angeles
+B-2419,Tomato,Fresh,C,2026-02-05,2026-02-19,132,Ambient,Phoenix
+B-2420,Onion,Fresh,B,2026-02-01,2026-02-15,372,Ambient,Los Angeles
+B-2421,Milk,Chilled,B,2026-02-01,2026-02-08,350,Refrigerated,New York
+B-2422,Onion,Fresh,B,2026-02-05,2026-02-19,383,Ambient,New York
+B-2423,Fish,Chilled,B,2026-02-02,2026-02-07,152,Refrigerated,Los Angeles
+B-2424,Meat,Chilled,A,2026-02-06,2026-02-11,492,Refrigerated,Chicago
+B-2425,Meat,Chilled,B,2026-02-01,2026-02-06,313,Refrigerated,Phoenix
+B-2426,Meat,Chilled,A,2026-02-01,2026-02-06,469,Refrigerated,Phoenix
+B-2427,Onion,Fresh,B,2026-02-07,2026-02-21,192,Ambient,Phoenix
+B-2428,Meat,Chilled,A,2026-02-02,2026-02-07,265,Refrigerated,Chicago
+B-2429,Tomato,Fresh,C,2026-02-03,2026-02-17,225,Ambient,Houston
+B-2430,Onion,Fresh,C,2026-02-08,2026-02-22,306,Ambient,Los Angeles
+B-2431,Meat,Chilled,C,2026-02-03,2026-02-08,130,Refrigerated,New York
+B-2432,Tomato,Fresh,C,2026-02-05,2026-02-19,354,Ambient,Houston
+B-2433,Milk,Chilled,A,2026-01-31,2026-02-07,289,Refrigerated,Houston
+B-2434,Onion,Fresh,B,2026-02-01,2026-02-15,272,Ambient,Phoenix
+B-2435,Tomato,Fresh,B,2026-02-04,2026-02-18,199,Ambient,Los Angeles
+B-2436,Meat,Chilled,A,2026-01-31,2026-02-05,486,Refrigerated,Houston
+B-2437,Tomato,Fresh,B,2026-02-07,2026-02-21,167,Ambient,Chicago
+B-2438,Onion,Fresh,C,2026-01-31,2026-02-14,52,Ambient,Houston
+B-2439,Meat,Chilled,C,2026-02-03,2026-02-08,51,Refrigerated,Los Angeles
+B-2440,Fish,Chilled,A,2026-02-07,2026-02-12,359,Refrigerated,New York
+B-2441,Fish,Chilled,A,2026-02-07,2026-02-12,316,Refrigerated,Phoenix
+B-2442,Tomato,Fresh,C,2026-01-31,2026-02-14,498,Ambient,Chicago
+B-2443,Tomato,Fresh,B,2026-02-08,2026-02-22,241,Ambient,Chicago
+B-2444,Milk,Chilled,A,2026-02-04,2026-02-11,69,Refrigerated,Houston
+B-2445,Tomato,Fresh,B,2026-02-01,2026-02-15,126,Ambient,Chicago
+B-2446,Meat,Chilled,B,2026-02-04,2026-02-09,236,Refrigerated,Phoenix
+B-2447,Milk,Chilled,C,2026-02-06,2026-02-13,270,Refrigerated,Chicago
+B-2448,Fish,Chilled,C,2026-02-03,2026-02-08,341,Refrigerated,Los Angeles
+B-2449,Onion,Fresh,C,2026-02-01,2026-02-15,500,Ambient,New York
+B-2450,Onion,Fresh,C,2026-02-07,2026-02-21,397,Ambient,Houston
+B-2451,Onion,Fresh,A,2026-02-02,2026-02-16,482,Ambient,New York
+B-2452,Onion,Fresh,A,2026-02-02,2026-02-16,203,Ambient,Houston
+B-2453,Fish,Chilled,A,2026-02-01,2026-02-06,184,Refrigerated,Los Angeles
+B-2454,Fish,Chilled,B,2026-02-08,2026-02-13,247,Refrigerated,New York
+B-2455,Meat,Chilled,A,2026-02-04,2026-02-09,363,Refrigerated,New York
+B-2456,Fish,Chilled,C,2026-02-07,2026-02-12,132,Refrigerated,Chicago
+B-2457,Tomato,Fresh,C,2026-02-01,2026-02-15,290,Ambient,Phoenix
+B-2458,Onion,Fresh,C,2026-02-06,2026-02-20,94,Ambient,Phoenix
+B-2459,Tomato,Fresh,C,2026-02-09,2026-02-23,221,Ambient,Chicago
+B-2460,Fish,Chilled,C,2026-02-09,2026-02-14,424,Refrigerated,New York
+B-2461,Onion,Fresh,A,2026-02-09,2026-02-23,100,Ambient,New York
+B-2462,Milk,Chilled,C,2026-02-02,2026-02-09,156,Refrigerated,Houston
+B-2463,Fish,Chilled,A,2026-02-03,2026-02-08,332,Refrigerated,Los Angeles
+B-2464,Fish,Chilled,C,2026-02-03,2026-02-08,182,Refrigerated,Chicago
+B-2465,Meat,Chilled,B,2026-02-06,2026-02-11,429,Refrigerated,New York
+B-2466,Milk,Chilled,C,2026-02-07,2026-02-14,425,Refrigerated,Chicago
+B-2467,Meat,Chilled,C,2026-02-01,2026-02-06,75,Refrigerated,Houston
+B-2468,Tomato,Fresh,B,2026-02-06,2026-02-20,306,Ambient,New York
+B-2469,Tomato,Fresh,B,2026-02-09,2026-02-23,100,Ambient,New York
+B-2470,Milk,Chilled,A,2026-02-08,2026-02-15,166,Refrigerated,New York
+B-2471,Fish,Chilled,A,2026-02-05,2026-02-10,309,Refrigerated,New York
+B-2472,Milk,Chilled,B,2026-02-07,2026-02-14,336,Refrigerated,Los Angeles
+B-2473,Onion,Fresh,C,2026-01-31,2026-02-14,330,Ambient,Los Angeles
+B-2474,Fish,Chilled,C,2026-02-09,2026-02-14,446,Refrigerated,Los Angeles
+B-2475,Milk,Chilled,C,2026-01-31,2026-02-07,154,Refrigerated,New York
+B-2476,Tomato,Fresh,C,2026-02-07,2026-02-21,242,Ambient,Phoenix
+B-2477,Milk,Chilled,C,2026-02-06,2026-02-13,112,Refrigerated,Houston
+B-2478,Tomato,Fresh,A,2026-02-02,2026-02-16,298,Ambient,Phoenix
+B-2479,Onion,Fresh,C,2026-02-01,2026-02-15,231,Ambient,Chicago
+B-2480,Onion,Fresh,C,2026-02-01,2026-02-15,262,Ambient,Chicago
+B-2481,Tomato,Fresh,B,2026-02-07,2026-02-21,239,Ambient,Houston
+B-2482,Tomato,Fresh,B,2026-01-31,2026-02-14,447,Ambient,Los Angeles
+B-2483,Meat,Chilled,B,2026-02-05,2026-02-10,64,Refrigerated,New York
+B-2484,Tomato,Fresh,A,2026-02-08,2026-02-22,168,Ambient,New York
+B-2485,Meat,Chilled,C,2026-02-07,2026-02-12,320,Refrigerated,Los Angeles
+B-2486,Fish,Chilled,C,2026-02-05,2026-02-10,380,Refrigerated,Houston
+B-2487,Onion,Fresh,B,2026-02-04,2026-02-18,496,Ambient,Chicago
+B-2488,Onion,Fresh,B,2026-02-08,2026-02-22,298,Ambient,Chicago
+B-2489,Onion,Fresh,B,2026-02-01,2026-02-15,496,Ambient,Houston
+B-2490,Tomato,Fresh,B,2026-02-03,2026-02-17,206,Ambient,New York
+B-2491,Onion,Fresh,C,2026-02-04,2026-02-18,193,Ambient,New York
+B-2492,Tomato,Fresh,B,2026-02-08,2026-02-22,367,Ambient,Chicago
+B-2493,Milk,Chilled,A,2026-01-31,2026-02-07,355,Refrigerated,Phoenix
+B-2494,Meat,Chilled,C,2026-02-06,2026-02-11,389,Refrigerated,Los Angeles
+B-2495,Fish,Chilled,B,2026-02-06,2026-02-11,185,Refrigerated,Los Angeles
+B-2496,Milk,Chilled,C,2026-02-04,2026-02-11,181,Refrigerated,Los Angeles
+B-2497,Milk,Chilled,B,2026-02-01,2026-02-08,165,Refrigerated,Houston
+B-2498,Onion,Fresh,B,2026-02-07,2026-02-21,384,Ambient,Phoenix
+B-2499,Onion,Fresh,B,2026-02-09,2026-02-23,112,Ambient,Los Angeles

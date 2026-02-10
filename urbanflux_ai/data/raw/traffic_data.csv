@@ -1,0 +1,251 @@
+city,congestion_level,delay_factor
+New York,Medium,1.69
+New York,High,1.01
+New York,Low,1.48
+New York,High,0.9
+New York,Low,1.32
+New York,Medium,1.52
+New York,Medium,1.4
+New York,High,2.08
+New York,Medium,1.35
+New York,Low,0.82
+New York,Low,1.88
+New York,Low,1.14
+New York,Low,1.17
+New York,Low,0.86
+New York,Low,0.89
+New York,Medium,1.16
+New York,Low,1.92
+New York,Low,0.97
+New York,Low,2.23
+New York,Medium,1.88
+New York,High,0.95
+New York,Medium,1.86
+New York,High,0.91
+New York,High,2.43
+New York,High,1.36
+New York,High,0.82
+New York,High,1.63
+New York,Medium,1.33
+New York,High,2.46
+New York,Low,1.56
+New York,High,1.68
+New York,Low,2.07
+New York,Medium,2.02
+New York,High,1.96
+New York,High,2.14
+New York,Low,1.9
+New York,Medium,1.62
+New York,High,2.18
+New York,Medium,1.9
+New York,High,1.69
+New York,Medium,1.28
+New York,High,0.86
+New York,Medium,0.85
+New York,High,1.91
+New York,Medium,2.42
+New York,Medium,1.2
+New York,Medium,1.77
+New York,High,2.04
+New York,Medium,2.15
+New York,Low,1.63
+Los Angeles,Medium,1.88
+Los Angeles,High,1.36
+Los Angeles,Medium,1.97
+Los Angeles,Medium,1.18
+Los Angeles,High,2.24
+Los Angeles,Medium,1.94
+Los Angeles,High,1.87
+Los Angeles,High,2.3
+Los Angeles,Medium,2.36
+Los Angeles,Medium,2.28
+Los Angeles,High,1.25
+Los Angeles,Low,1.37
+Los Angeles,Low,1.43
+Los Angeles,Medium,2.2
+Los Angeles,Medium,2.35
+Los Angeles,Low,1.1
+Los Angeles,Medium,1.35
+Los Angeles,Low,1.62
+Los Angeles,Low,0.81
+Los Angeles,Low,1.76
+Los Angeles,High,1.4
+Los Angeles,Low,2.44
+Los Angeles,High,1.39
+Los Angeles,Medium,1.73
+Los Angeles,Medium,0.93
+Los Angeles,High,1.67
+Los Angeles,Low,1.07
+Los Angeles,High,1.85
+Los Angeles,High,2.18
+Los Angeles,Low,2.45
+Los Angeles,Medium,1.47
+Los Angeles,Low,2.46
+Los Angeles,Medium,2.28
+Los Angeles,High,1.43
+Los Angeles,High,2.35
+Los Angeles,Medium,0.87
+Los Angeles,High,2.32
+Los Angeles,Medium,1.36
+Los Angeles,Low,1.58
+Los Angeles,High,1.28
+Los Angeles,High,2.31
+Los Angeles,Medium,1.38
+Los Angeles,High,1.54
+Los Angeles,High,1.04
+Los Angeles,Low,1.84
+Los Angeles,Medium,1.29
+Los Angeles,Low,1.44
+Los Angeles,Medium,0.82
+Los Angeles,Medium,1.13
+Los Angeles,Medium,2.38
+Chicago,Low,2.0
+Chicago,High,2.46
+Chicago,Medium,1.63
+Chicago,Medium,1.47
+Chicago,Medium,2.19
+Chicago,Medium,2.2
+Chicago,Medium,1.1
+Chicago,Medium,2.27
+Chicago,High,1.0
+Chicago,Low,1.03
+Chicago,Medium,1.9
+Chicago,Medium,2.04
+Chicago,Low,0.96
+Chicago,Medium,2.24
+Chicago,High,1.78
+Chicago,High,1.51
+Chicago,High,1.1
+Chicago,Medium,0.92
+Chicago,Medium,1.45
+Chicago,Low,2.19
+Chicago,Medium,2.39
+Chicago,High,2.14
+Chicago,High,1.96
+Chicago,High,1.16
+Chicago,High,2.3
+Chicago,Medium,1.18
+Chicago,Low,1.41
+Chicago,Low,1.1
+Chicago,Medium,1.19
+Chicago,Low,2.48
+Chicago,High,0.86
+Chicago,Low,1.01
+Chicago,Medium,2.07
+Chicago,Low,1.42
+Chicago,Medium,1.34
+Chicago,Medium,1.47
+Chicago,Medium,2.24
+Chicago,High,1.85
+Chicago,Low,1.89
+Chicago,Low,2.31
+Chicago,Medium,2.37
+Chicago,Medium,1.69
+Chicago,Low,2.23
+Chicago,High,1.84
+Chicago,Medium,1.69
+Chicago,Low,1.99
+Chicago,Medium,1.43
+Chicago,Low,2.37
+Chicago,Low,1.97
+Chicago,High,0.95
+Houston,High,1.4
+Houston,Medium,1.88
+Houston,High,1.32
+Houston,Medium,1.68
+Houston,Medium,0.85
+Houston,Medium,1.85
+Houston,Low,2.36
+Houston,Low,1.16
+Houston,High,2.17
+Houston,High,2.09
+Houston,Medium,1.17
+Houston,High,0.94
+Houston,Medium,1.97
+Houston,High,2.34
+Houston,Medium,1.7
+Houston,Medium,2.42
+Houston,Medium,0.96
+Houston,Low,0.83
+Houston,Medium,1.48
+Houston,High,2.2
+Houston,Medium,2.19
+Houston,Low,1.52
+Houston,Low,0.99
+Houston,Low,0.89
+Houston,High,1.76
+Houston,Low,2.03
+Houston,Medium,2.14
+Houston,Medium,2.26
+Houston,Medium,2.27
+Houston,Low,1.89
+Houston,High,1.96
+Houston,Low,2.01
+Houston,Low,2.16
+Houston,Low,2.47
+Houston,Low,1.4
+Houston,Low,1.64
+Houston,Medium,1.74
+Houston,Medium,2.41
+Houston,Low,1.4
+Houston,Medium,2.37
+Houston,Medium,1.27
+Houston,High,1.53
+Houston,High,2.1
+Houston,Medium,1.01
+Houston,High,2.43
+Houston,Medium,1.2
+Houston,Medium,1.83
+Houston,High,1.88
+Houston,Low,1.24
+Houston,Low,2.14
+Phoenix,Medium,1.87
+Phoenix,High,2.16
+Phoenix,High,2.16
+Phoenix,High,2.08
+Phoenix,High,1.34
+Phoenix,Low,1.99
+Phoenix,Low,2.46
+Phoenix,Medium,2.16
+Phoenix,Low,1.98
+Phoenix,High,1.98
+Phoenix,High,2.45
+Phoenix,Low,2.21
+Phoenix,Medium,1.59
+Phoenix,Medium,2.05
+Phoenix,Low,0.86
+Phoenix,High,2.46
+Phoenix,Low,1.09
+Phoenix,High,1.41
+Phoenix,Medium,2.34
+Phoenix,Low,1.29
+Phoenix,High,1.67
+Phoenix,Medium,2.33
+Phoenix,Low,2.2
+Phoenix,Low,1.4
+Phoenix,High,2.03
+Phoenix,Low,1.06
+Phoenix,Medium,2.22
+Phoenix,Medium,1.39
+Phoenix,High,2.04
+Phoenix,Low,2.41
+Phoenix,Low,1.89
+Phoenix,Low,2.01
+Phoenix,High,2.16
+Phoenix,Medium,2.28
+Phoenix,Medium,1.15
+Phoenix,Medium,2.25
+Phoenix,High,1.68
+Phoenix,Medium,2.26
+Phoenix,Low,2.38
+Phoenix,Medium,1.22
+Phoenix,High,1.32
+Phoenix,Low,1.68
+Phoenix,Medium,1.58
+Phoenix,Medium,2.33
+Phoenix,Low,1.64
+Phoenix,Medium,1.49
+Phoenix,Medium,2.3
+Phoenix,Low,1.97
+Phoenix,Medium,1.39
+Phoenix,High,1.02

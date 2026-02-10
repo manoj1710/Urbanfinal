@@ -1,0 +1,26 @@
+product_name,city,demand_score
+Tomato,New York,99
+Tomato,Los Angeles,77
+Tomato,Chicago,72
+Tomato,Houston,83
+Tomato,Phoenix,95
+Milk,New York,77
+Milk,Los Angeles,56
+Milk,Chicago,42
+Milk,Houston,74
+Milk,Phoenix,44
+Onion,New York,69
+Onion,Los Angeles,60
+Onion,Chicago,55
+Onion,Houston,84
+Onion,Phoenix,99
+Meat,New York,66
+Meat,Los Angeles,41
+Meat,Chicago,91
+Meat,Houston,90
+Meat,Phoenix,81
+Fish,New York,88
+Fish,Los Angeles,46
+Fish,Chicago,52
+Fish,Houston,77
+Fish,Phoenix,66
